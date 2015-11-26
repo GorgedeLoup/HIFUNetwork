@@ -1,0 +1,4382 @@
+19:22:45 Check times:  1
+
+19:22:45 Receipt checked.
+
+19:22:46 SERVER Start sending command ...
+
+19:22:46 Receipt: "From: ServerName, To: ClientName, Time: 2, 周二 十一月 24 2015, 19:22:46"
+
+19:22:46 SERVER "SEND COMMAND START"
+
+19:22:47 SERVER Start sending command ...
+
+19:22:47 Receipt: "From: ServerName, To: ClientName, Time: 2, 周二 十一月 24 2015, 19:22:47"
+
+19:22:47 SERVER "SEND COMMAND PAUSE"
+
+19:22:47 SERVER Sending plan...
+
+19:22:47 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:22:47 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:22:47 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:22:47 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:22:47 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:22:47 receipt: "From: ServerName, To: ClientName, Time: 2, 周二 十一月 24 2015, 19:22:47"
+
+19:22:47 m_totalBytes: 546
+
+19:22:48 Receipt checked.
+
+19:22:48 SERVER Start sending command ...
+
+19:22:48 Receipt: "From: ServerName, To: ClientName, Time: 3, 周二 十一月 24 2015, 19:22:48"
+
+19:22:48 SERVER "SEND COMMAND PAUSE"
+
+19:22:49 SERVER Sending plan...
+
+19:22:49 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:22:49 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:22:49 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:22:49 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:22:49 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:22:49 receipt: "From: ServerName, To: ClientName, Time: 3, 周二 十一月 24 2015, 19:22:49"
+
+19:22:49 m_totalBytes: 546
+
+19:22:49 Receipt checked.
+
+19:22:49 SERVER Start sending command ...
+
+19:22:49 Receipt: "From: ServerName, To: ClientName, Time: 4, 周二 十一月 24 2015, 19:22:49"
+
+19:22:49 SERVER "SEND COMMAND START"
+
+19:22:50 SERVER Start sending command ...
+
+19:22:50 Receipt: "From: ServerName, To: ClientName, Time: 4, 周二 十一月 24 2015, 19:22:50"
+
+19:22:50 SERVER "SEND COMMAND PAUSE"
+
+19:22:50 SERVER Start sending command ...
+
+19:22:50 Receipt: "From: ServerName, To: ClientName, Time: 4, 周二 十一月 24 2015, 19:22:50"
+
+19:22:50 SERVER "SEND COMMAND START"
+
+19:22:51 SERVER Start sending command ...
+
+19:22:51 Receipt: "From: ServerName, To: ClientName, Time: 4, 周二 十一月 24 2015, 19:22:51"
+
+19:22:51 SERVER "SEND COMMAND STOP"
+
+19:22:51 SERVER Start sending command ...
+
+19:22:51 Receipt: "From: ServerName, To: ClientName, Time: 4, 周二 十一月 24 2015, 19:22:51"
+
+19:22:51 SERVER "SEND COMMAND START"
+
+19:22:52 SERVER Sending plan...
+
+19:22:52 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:22:52 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:22:52 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:22:52 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:22:52 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:22:52 receipt: "From: ServerName, To: ClientName, Time: 4, 周二 十一月 24 2015, 19:22:52"
+
+19:22:52 m_totalBytes: 546
+
+19:22:52 Receipt checked.
+
+19:22:52 SERVER Sending plan...
+
+19:22:52 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:22:52 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:22:52 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:22:52 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:22:52 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:22:52 receipt: "From: ServerName, To: ClientName, Time: 5, 周二 十一月 24 2015, 19:22:52"
+
+19:22:52 m_totalBytes: 546
+
+19:22:52 Receipt checked.
+
+19:22:53 SERVER Start sending command ...
+
+19:22:53 Receipt: "From: ServerName, To: ClientName, Time: 6, 周二 十一月 24 2015, 19:22:53"
+
+19:22:53 SERVER "SEND COMMAND PAUSE"
+
+19:22:53 SERVER Start sending command ...
+
+19:22:53 Receipt: "From: ServerName, To: ClientName, Time: 6, 周二 十一月 24 2015, 19:22:53"
+
+19:22:53 SERVER "SEND COMMAND PAUSE"
+
+19:22:54 SERVER Start sending command ...
+
+19:22:54 Receipt: "From: ServerName, To: ClientName, Time: 6, 周二 十一月 24 2015, 19:22:54"
+
+19:22:54 SERVER "SEND COMMAND STOP"
+
+19:22:54 SERVER Start sending command ...
+
+19:22:54 Receipt: "From: ServerName, To: ClientName, Time: 6, 周二 十一月 24 2015, 19:22:54"
+
+19:22:54 SERVER "SEND COMMAND PAUSE"
+
+19:22:55 SERVER Start sending command ...
+
+19:22:55 Receipt: "From: ServerName, To: ClientName, Time: 6, 周二 十一月 24 2015, 19:22:55"
+
+19:22:55 SERVER "SEND COMMAND START"
+
+19:22:55 SERVER Start sending command ...
+
+19:22:55 Receipt: "From: ServerName, To: ClientName, Time: 6, 周二 十一月 24 2015, 19:22:55"
+
+19:22:55 SERVER "SEND COMMAND STOP"
+
+19:22:56 SERVER Start sending command ...
+
+19:22:56 Receipt: "From: ServerName, To: ClientName, Time: 6, 周二 十一月 24 2015, 19:22:56"
+
+19:22:56 SERVER "SEND COMMAND START"
+
+19:22:56 SERVER Start sending command ...
+
+19:22:56 Receipt: "From: ServerName, To: ClientName, Time: 6, 周二 十一月 24 2015, 19:22:56"
+
+19:22:56 SERVER "SEND COMMAND START"
+
+19:22:57 SERVER Start sending command ...
+
+19:22:57 Receipt: "From: ServerName, To: ClientName, Time: 6, 周二 十一月 24 2015, 19:22:57"
+
+19:22:57 SERVER "SEND COMMAND STOP"
+
+19:22:57 SERVER Sending plan...
+
+19:22:57 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:22:57 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:22:57 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:22:57 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:22:57 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:22:57 receipt: "From: ServerName, To: ClientName, Time: 6, 周二 十一月 24 2015, 19:22:57"
+
+19:22:57 m_totalBytes: 546
+
+19:22:57 Receipt checked.
+
+19:22:58 SERVER Start sending command ...
+
+19:22:58 Receipt: "From: ServerName, To: ClientName, Time: 7, 周二 十一月 24 2015, 19:22:58"
+
+19:22:58 SERVER "SEND COMMAND START"
+
+19:22:58 SERVER Start sending command ...
+
+19:22:58 Receipt: "From: ServerName, To: ClientName, Time: 7, 周二 十一月 24 2015, 19:22:58"
+
+19:22:58 SERVER "SEND COMMAND PAUSE"
+
+19:22:59 SERVER Start sending command ...
+
+19:22:59 Receipt: "From: ServerName, To: ClientName, Time: 7, 周二 十一月 24 2015, 19:22:59"
+
+19:22:59 SERVER "SEND COMMAND START"
+
+19:22:59 Warning: SERVER Socket block !
+
+19:23:00 SERVER Start sending command ...
+
+19:23:00 Receipt: "From: ServerName, To: ClientName, Time: 7, 周二 十一月 24 2015, 19:23:00"
+
+19:23:00 SERVER "SEND COMMAND STOP"
+
+19:23:00 SERVER Start sending command ...
+
+19:23:00 Receipt: "From: ServerName, To: ClientName, Time: 7, 周二 十一月 24 2015, 19:23:00"
+
+19:23:00 SERVER "SEND COMMAND PAUSE"
+
+19:23:01 SERVER Start sending command ...
+
+19:23:01 Receipt: "From: ServerName, To: ClientName, Time: 7, 周二 十一月 24 2015, 19:23:01"
+
+19:23:01 SERVER "SEND COMMAND START"
+
+19:23:01 SERVER Start sending command ...
+
+19:23:01 Receipt: "From: ServerName, To: ClientName, Time: 7, 周二 十一月 24 2015, 19:23:01"
+
+19:23:01 SERVER "SEND COMMAND START"
+
+19:23:02 SERVER Start sending command ...
+
+19:23:02 Receipt: "From: ServerName, To: ClientName, Time: 7, 周二 十一月 24 2015, 19:23:02"
+
+19:23:02 SERVER "SEND COMMAND START"
+
+19:23:02 SERVER Start sending command ...
+
+19:23:02 Receipt: "From: ServerName, To: ClientName, Time: 7, 周二 十一月 24 2015, 19:23:02"
+
+19:23:02 SERVER "SEND COMMAND START"
+
+19:23:03 SERVER Sending plan...
+
+19:23:03 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:03 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:03 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:03 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:03 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:03 receipt: "From: ServerName, To: ClientName, Time: 7, 周二 十一月 24 2015, 19:23:03"
+
+19:23:03 m_totalBytes: 546
+
+19:23:03 Receipt checked.
+
+19:23:03 SERVER Start sending command ...
+
+19:23:03 Receipt: "From: ServerName, To: ClientName, Time: 8, 周二 十一月 24 2015, 19:23:03"
+
+19:23:03 SERVER "SEND COMMAND PAUSE"
+
+19:23:04 SERVER Start sending command ...
+
+19:23:04 Receipt: "From: ServerName, To: ClientName, Time: 8, 周二 十一月 24 2015, 19:23:04"
+
+19:23:04 SERVER "SEND COMMAND PAUSE"
+
+19:23:04 SERVER Start sending command ...
+
+19:23:04 Receipt: "From: ServerName, To: ClientName, Time: 8, 周二 十一月 24 2015, 19:23:04"
+
+19:23:04 SERVER "SEND COMMAND PAUSE"
+
+19:23:05 SERVER Start sending command ...
+
+19:23:05 Receipt: "From: ServerName, To: ClientName, Time: 8, 周二 十一月 24 2015, 19:23:05"
+
+19:23:05 SERVER "SEND COMMAND PAUSE"
+
+19:23:05 SERVER Start sending command ...
+
+19:23:05 Receipt: "From: ServerName, To: ClientName, Time: 8, 周二 十一月 24 2015, 19:23:05"
+
+19:23:05 SERVER "SEND COMMAND PAUSE"
+
+19:23:06 SERVER Start sending command ...
+
+19:23:06 Receipt: "From: ServerName, To: ClientName, Time: 8, 周二 十一月 24 2015, 19:23:06"
+
+19:23:06 SERVER "SEND COMMAND STOP"
+
+19:23:06 SERVER Start sending command ...
+
+19:23:06 Receipt: "From: ServerName, To: ClientName, Time: 8, 周二 十一月 24 2015, 19:23:06"
+
+19:23:06 SERVER "SEND COMMAND START"
+
+19:23:07 SERVER Start sending command ...
+
+19:23:07 Receipt: "From: ServerName, To: ClientName, Time: 8, 周二 十一月 24 2015, 19:23:07"
+
+19:23:07 SERVER "SEND COMMAND START"
+
+19:23:07 SERVER Sending plan...
+
+19:23:07 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:07 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:07 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:07 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:07 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:07 receipt: "From: ServerName, To: ClientName, Time: 8, 周二 十一月 24 2015, 19:23:07"
+
+19:23:07 m_totalBytes: 546
+
+19:23:07 Receipt checked.
+
+19:23:08 SERVER Sending plan...
+
+19:23:08 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:08 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:08 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:08 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:08 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:08 receipt: "From: ServerName, To: ClientName, Time: 9, 周二 十一月 24 2015, 19:23:08"
+
+19:23:08 m_totalBytes: 546
+
+19:23:08 Receipt checked.
+
+19:23:08 SERVER Start sending command ...
+
+19:23:08 Receipt: "From: ServerName, To: ClientName, Time: 10, 周二 十一月 24 2015, 19:23:08"
+
+19:23:08 SERVER "SEND COMMAND START"
+
+19:23:09 SERVER Sending plan...
+
+19:23:09 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:09 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:09 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:09 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:09 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:09 receipt: "From: ServerName, To: ClientName, Time: 10, 周二 十一月 24 2015, 19:23:09"
+
+19:23:09 m_totalBytes: 548
+
+19:23:09 Receipt checked.
+
+19:23:09 SERVER Start sending command ...
+
+19:23:09 Receipt: "From: ServerName, To: ClientName, Time: 11, 周二 十一月 24 2015, 19:23:09"
+
+19:23:09 SERVER "SEND COMMAND START"
+
+19:23:10 SERVER Start sending command ...
+
+19:23:10 Receipt: "From: ServerName, To: ClientName, Time: 11, 周二 十一月 24 2015, 19:23:10"
+
+19:23:10 SERVER "SEND COMMAND PAUSE"
+
+19:23:10 SERVER Sending plan...
+
+19:23:10 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:10 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:10 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:10 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:10 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:10 receipt: "From: ServerName, To: ClientName, Time: 11, 周二 十一月 24 2015, 19:23:10"
+
+19:23:10 m_totalBytes: 548
+
+19:23:10 Receipt checked.
+
+19:23:11 SERVER Start sending command ...
+
+19:23:11 Receipt: "From: ServerName, To: ClientName, Time: 12, 周二 十一月 24 2015, 19:23:11"
+
+19:23:11 SERVER "SEND COMMAND STOP"
+
+19:23:11 SERVER Start sending command ...
+
+19:23:11 Receipt: "From: ServerName, To: ClientName, Time: 12, 周二 十一月 24 2015, 19:23:11"
+
+19:23:11 SERVER "SEND COMMAND START"
+
+19:23:12 SERVER Start sending command ...
+
+19:23:12 Receipt: "From: ServerName, To: ClientName, Time: 12, 周二 十一月 24 2015, 19:23:12"
+
+19:23:12 SERVER "SEND COMMAND STOP"
+
+19:23:12 SERVER Start sending command ...
+
+19:23:12 Receipt: "From: ServerName, To: ClientName, Time: 12, 周二 十一月 24 2015, 19:23:12"
+
+19:23:12 SERVER "SEND COMMAND PAUSE"
+
+19:23:13 SERVER Start sending command ...
+
+19:23:13 Receipt: "From: ServerName, To: ClientName, Time: 12, 周二 十一月 24 2015, 19:23:13"
+
+19:23:13 SERVER "SEND COMMAND START"
+
+19:23:13 SERVER Start sending command ...
+
+19:23:13 Receipt: "From: ServerName, To: ClientName, Time: 12, 周二 十一月 24 2015, 19:23:13"
+
+19:23:13 SERVER "SEND COMMAND PAUSE"
+
+19:23:14 SERVER Sending plan...
+
+19:23:14 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:14 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:14 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:14 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:14 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:14 receipt: "From: ServerName, To: ClientName, Time: 12, 周二 十一月 24 2015, 19:23:14"
+
+19:23:14 m_totalBytes: 548
+
+19:23:14 Receipt checked.
+
+19:23:14 SERVER Sending plan...
+
+19:23:14 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:14 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:14 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:14 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:14 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:14 receipt: "From: ServerName, To: ClientName, Time: 13, 周二 十一月 24 2015, 19:23:14"
+
+19:23:14 m_totalBytes: 548
+
+19:23:14 Receipt checked.
+
+19:23:15 Check times:  2
+
+19:23:15 Receipt checked.
+
+19:23:15 SERVER Start sending command ...
+
+19:23:15 Receipt: "From: ServerName, To: ClientName, Time: 15, 周二 十一月 24 2015, 19:23:15"
+
+19:23:15 SERVER "SEND COMMAND PAUSE"
+
+19:23:15 SERVER Sending plan...
+
+19:23:15 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:15 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:15 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:15 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:15 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:15 receipt: "From: ServerName, To: ClientName, Time: 15, 周二 十一月 24 2015, 19:23:15"
+
+19:23:15 m_totalBytes: 548
+
+19:23:15 Receipt checked.
+
+19:23:16 SERVER Start sending command ...
+
+19:23:16 Receipt: "From: ServerName, To: ClientName, Time: 16, 周二 十一月 24 2015, 19:23:16"
+
+19:23:16 SERVER "SEND COMMAND STOP"
+
+19:23:16 SERVER Sending plan...
+
+19:23:16 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:16 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:16 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:16 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:16 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:16 receipt: "From: ServerName, To: ClientName, Time: 16, 周二 十一月 24 2015, 19:23:16"
+
+19:23:16 m_totalBytes: 548
+
+19:23:16 Receipt checked.
+
+19:23:17 SERVER Start sending command ...
+
+19:23:17 Receipt: "From: ServerName, To: ClientName, Time: 17, 周二 十一月 24 2015, 19:23:17"
+
+19:23:17 SERVER "SEND COMMAND START"
+
+19:23:17 SERVER Start sending command ...
+
+19:23:17 Receipt: "From: ServerName, To: ClientName, Time: 17, 周二 十一月 24 2015, 19:23:17"
+
+19:23:17 SERVER "SEND COMMAND START"
+
+19:23:18 SERVER Start sending command ...
+
+19:23:18 Receipt: "From: ServerName, To: ClientName, Time: 17, 周二 十一月 24 2015, 19:23:18"
+
+19:23:18 SERVER "SEND COMMAND START"
+
+19:23:18 SERVER Sending plan...
+
+19:23:18 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:18 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:18 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:18 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:18 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:18 receipt: "From: ServerName, To: ClientName, Time: 17, 周二 十一月 24 2015, 19:23:18"
+
+19:23:18 m_totalBytes: 548
+
+19:23:19 Receipt checked.
+
+19:23:19 SERVER Sending plan...
+
+19:23:19 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:19 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:19 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:19 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:19 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:19 receipt: "From: ServerName, To: ClientName, Time: 18, 周二 十一月 24 2015, 19:23:19"
+
+19:23:19 m_totalBytes: 548
+
+19:23:19 Receipt checked.
+
+19:23:19 SERVER Start sending command ...
+
+19:23:19 Receipt: "From: ServerName, To: ClientName, Time: 19, 周二 十一月 24 2015, 19:23:19"
+
+19:23:19 SERVER "SEND COMMAND STOP"
+
+19:23:20 SERVER Start sending command ...
+
+19:23:20 Receipt: "From: ServerName, To: ClientName, Time: 19, 周二 十一月 24 2015, 19:23:20"
+
+19:23:20 SERVER "SEND COMMAND PAUSE"
+
+19:23:20 SERVER Start sending command ...
+
+19:23:20 Receipt: "From: ServerName, To: ClientName, Time: 19, 周二 十一月 24 2015, 19:23:20"
+
+19:23:20 SERVER "SEND COMMAND PAUSE"
+
+19:23:21 SERVER Start sending command ...
+
+19:23:21 Receipt: "From: ServerName, To: ClientName, Time: 19, 周二 十一月 24 2015, 19:23:21"
+
+19:23:21 SERVER "SEND COMMAND PAUSE"
+
+19:23:21 SERVER Sending plan...
+
+19:23:21 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:21 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:21 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:21 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:21 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:21 receipt: "From: ServerName, To: ClientName, Time: 19, 周二 十一月 24 2015, 19:23:21"
+
+19:23:21 m_totalBytes: 548
+
+19:23:22 Receipt checked.
+
+19:23:22 SERVER Start sending command ...
+
+19:23:22 Receipt: "From: ServerName, To: ClientName, Time: 20, 周二 十一月 24 2015, 19:23:22"
+
+19:23:22 SERVER "SEND COMMAND PAUSE"
+
+19:23:22 SERVER Start sending command ...
+
+19:23:22 Receipt: "From: ServerName, To: ClientName, Time: 20, 周二 十一月 24 2015, 19:23:22"
+
+19:23:22 SERVER "SEND COMMAND STOP"
+
+19:23:23 SERVER Start sending command ...
+
+19:23:23 Receipt: "From: ServerName, To: ClientName, Time: 20, 周二 十一月 24 2015, 19:23:23"
+
+19:23:23 SERVER "SEND COMMAND STOP"
+
+19:23:24 SERVER Sending plan...
+
+19:23:24 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:24 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:24 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:24 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:24 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:24 receipt: "From: ServerName, To: ClientName, Time: 20, 周二 十一月 24 2015, 19:23:24"
+
+19:23:24 m_totalBytes: 548
+
+19:23:24 Receipt checked.
+
+19:23:24 SERVER Start sending command ...
+
+19:23:24 Receipt: "From: ServerName, To: ClientName, Time: 21, 周二 十一月 24 2015, 19:23:24"
+
+19:23:24 SERVER "SEND COMMAND START"
+
+19:23:25 SERVER Start sending command ...
+
+19:23:25 Receipt: "From: ServerName, To: ClientName, Time: 21, 周二 十一月 24 2015, 19:23:25"
+
+19:23:25 SERVER "SEND COMMAND START"
+
+19:23:25 Warning: SERVER Socket block !
+
+19:23:26 Warning: SERVER Socket block !
+
+19:23:26 Warning: SERVER Socket block !
+
+19:23:27 Warning: SERVER Socket block !
+
+19:23:27 Warning: SERVER Socket block !
+
+19:23:28 Warning: SERVER Socket block !
+
+19:23:28 Warning: SERVER Socket block !
+
+19:23:29 Warning: SERVER Socket block !
+
+19:23:29 Warning: SERVER Socket block !
+
+19:23:30 Warning: SERVER Socket block !
+
+19:23:30 Warning: SERVER Socket block !
+
+19:23:31 Warning: SERVER Socket block !
+
+19:23:31 Warning: SERVER Socket block !
+
+19:23:32 Warning: SERVER Socket block !
+
+19:23:32 Warning: SERVER Socket block !
+
+19:23:33 Warning: SERVER Socket block !
+
+19:23:33 Warning: SERVER Socket block !
+
+19:23:34 SERVER Start sending command ...
+
+19:23:34 Receipt: "From: ServerName, To: ClientName, Time: 21, 周二 十一月 24 2015, 19:23:34"
+
+19:23:34 SERVER "SEND COMMAND START"
+
+19:23:34 SERVER Sending plan...
+
+19:23:34 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:34 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:34 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:34 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:34 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:34 receipt: "From: ServerName, To: ClientName, Time: 21, 周二 十一月 24 2015, 19:23:34"
+
+19:23:34 m_totalBytes: 548
+
+19:23:35 Receipt checked.
+
+19:23:35 SERVER Start sending command ...
+
+19:23:35 Receipt: "From: ServerName, To: ClientName, Time: 22, 周二 十一月 24 2015, 19:23:35"
+
+19:23:35 SERVER "SEND COMMAND STOP"
+
+19:23:35 SERVER Sending plan...
+
+19:23:35 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:35 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:35 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:35 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:35 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:35 receipt: "From: ServerName, To: ClientName, Time: 22, 周二 十一月 24 2015, 19:23:35"
+
+19:23:35 m_totalBytes: 548
+
+19:23:35 Receipt checked.
+
+19:23:36 SERVER Sending plan...
+
+19:23:36 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:36 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:36 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:36 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:36 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:36 receipt: "From: ServerName, To: ClientName, Time: 23, 周二 十一月 24 2015, 19:23:36"
+
+19:23:36 m_totalBytes: 548
+
+19:23:36 Receipt checked.
+
+19:23:36 SERVER Sending plan...
+
+19:23:36 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:36 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:36 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:36 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:36 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:36 receipt: "From: ServerName, To: ClientName, Time: 24, 周二 十一月 24 2015, 19:23:36"
+
+19:23:36 m_totalBytes: 548
+
+19:23:36 Receipt checked.
+
+19:23:37 SERVER Start sending command ...
+
+19:23:37 Receipt: "From: ServerName, To: ClientName, Time: 25, 周二 十一月 24 2015, 19:23:37"
+
+19:23:37 SERVER "SEND COMMAND STOP"
+
+19:23:37 SERVER Start sending command ...
+
+19:23:37 Receipt: "From: ServerName, To: ClientName, Time: 25, 周二 十一月 24 2015, 19:23:37"
+
+19:23:37 SERVER "SEND COMMAND STOP"
+
+19:23:38 SERVER Start sending command ...
+
+19:23:38 Receipt: "From: ServerName, To: ClientName, Time: 25, 周二 十一月 24 2015, 19:23:38"
+
+19:23:38 SERVER "SEND COMMAND STOP"
+
+19:23:38 SERVER Start sending command ...
+
+19:23:38 Receipt: "From: ServerName, To: ClientName, Time: 25, 周二 十一月 24 2015, 19:23:38"
+
+19:23:38 SERVER "SEND COMMAND START"
+
+19:23:39 SERVER Sending plan...
+
+19:23:39 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:39 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:39 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:39 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:39 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:39 receipt: "From: ServerName, To: ClientName, Time: 25, 周二 十一月 24 2015, 19:23:39"
+
+19:23:39 m_totalBytes: 548
+
+19:23:39 Receipt checked.
+
+19:23:39 SERVER Start sending command ...
+
+19:23:39 Receipt: "From: ServerName, To: ClientName, Time: 26, 周二 十一月 24 2015, 19:23:39"
+
+19:23:39 SERVER "SEND COMMAND START"
+
+19:23:40 SERVER Start sending command ...
+
+19:23:40 Receipt: "From: ServerName, To: ClientName, Time: 26, 周二 十一月 24 2015, 19:23:40"
+
+19:23:40 SERVER "SEND COMMAND STOP"
+
+19:23:40 SERVER Start sending command ...
+
+19:23:40 Receipt: "From: ServerName, To: ClientName, Time: 26, 周二 十一月 24 2015, 19:23:40"
+
+19:23:40 SERVER "SEND COMMAND START"
+
+19:23:41 SERVER Start sending command ...
+
+19:23:41 Receipt: "From: ServerName, To: ClientName, Time: 26, 周二 十一月 24 2015, 19:23:41"
+
+19:23:41 SERVER "SEND COMMAND START"
+
+19:23:41 SERVER Start sending command ...
+
+19:23:41 Receipt: "From: ServerName, To: ClientName, Time: 26, 周二 十一月 24 2015, 19:23:41"
+
+19:23:41 SERVER "SEND COMMAND PAUSE"
+
+19:23:42 SERVER Sending plan...
+
+19:23:42 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:42 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:42 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:42 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:42 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:42 receipt: "From: ServerName, To: ClientName, Time: 26, 周二 十一月 24 2015, 19:23:42"
+
+19:23:42 m_totalBytes: 548
+
+19:23:42 Receipt checked.
+
+19:23:42 SERVER Start sending command ...
+
+19:23:42 Receipt: "From: ServerName, To: ClientName, Time: 27, 周二 十一月 24 2015, 19:23:42"
+
+19:23:42 SERVER "SEND COMMAND PAUSE"
+
+19:23:43 SERVER Start sending command ...
+
+19:23:43 Receipt: "From: ServerName, To: ClientName, Time: 27, 周二 十一月 24 2015, 19:23:43"
+
+19:23:43 SERVER "SEND COMMAND STOP"
+
+19:23:43 SERVER Start sending command ...
+
+19:23:43 Receipt: "From: ServerName, To: ClientName, Time: 27, 周二 十一月 24 2015, 19:23:43"
+
+19:23:43 SERVER "SEND COMMAND PAUSE"
+
+19:23:44 SERVER Sending plan...
+
+19:23:44 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:44 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:44 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:44 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:44 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:44 receipt: "From: ServerName, To: ClientName, Time: 27, 周二 十一月 24 2015, 19:23:44"
+
+19:23:44 m_totalBytes: 548
+
+19:23:44 Receipt checked.
+
+19:23:44 SERVER Start sending command ...
+
+19:23:44 Receipt: "From: ServerName, To: ClientName, Time: 28, 周二 十一月 24 2015, 19:23:44"
+
+19:23:45 SERVER "SEND COMMAND STOP"
+
+19:23:45 Check times:  3
+
+19:23:45 Receipt checked.
+
+19:23:45 SERVER Sending plan...
+
+19:23:45 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:45 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:45 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:45 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:45 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:45 receipt: "From: ServerName, To: ClientName, Time: 29, 周二 十一月 24 2015, 19:23:45"
+
+19:23:45 m_totalBytes: 548
+
+19:23:45 Receipt checked.
+
+19:23:46 SERVER Start sending command ...
+
+19:23:46 Receipt: "From: ServerName, To: ClientName, Time: 30, 周二 十一月 24 2015, 19:23:46"
+
+19:23:46 SERVER "SEND COMMAND START"
+
+19:23:46 SERVER Start sending command ...
+
+19:23:46 Receipt: "From: ServerName, To: ClientName, Time: 30, 周二 十一月 24 2015, 19:23:46"
+
+19:23:46 SERVER "SEND COMMAND START"
+
+19:23:47 SERVER Start sending command ...
+
+19:23:47 Receipt: "From: ServerName, To: ClientName, Time: 30, 周二 十一月 24 2015, 19:23:47"
+
+19:23:47 SERVER "SEND COMMAND START"
+
+19:23:47 SERVER Sending plan...
+
+19:23:47 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:47 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:47 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:47 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:47 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:47 receipt: "From: ServerName, To: ClientName, Time: 30, 周二 十一月 24 2015, 19:23:47"
+
+19:23:47 m_totalBytes: 548
+
+19:23:47 Receipt checked.
+
+19:23:48 SERVER Start sending command ...
+
+19:23:48 Receipt: "From: ServerName, To: ClientName, Time: 31, 周二 十一月 24 2015, 19:23:48"
+
+19:23:48 SERVER "SEND COMMAND PAUSE"
+
+19:23:48 SERVER Start sending command ...
+
+19:23:48 Receipt: "From: ServerName, To: ClientName, Time: 31, 周二 十一月 24 2015, 19:23:48"
+
+19:23:48 SERVER "SEND COMMAND PAUSE"
+
+19:23:49 SERVER Start sending command ...
+
+19:23:49 Receipt: "From: ServerName, To: ClientName, Time: 31, 周二 十一月 24 2015, 19:23:49"
+
+19:23:49 SERVER "SEND COMMAND PAUSE"
+
+19:23:49 SERVER Start sending command ...
+
+19:23:49 Receipt: "From: ServerName, To: ClientName, Time: 31, 周二 十一月 24 2015, 19:23:49"
+
+19:23:49 SERVER "SEND COMMAND STOP"
+
+19:23:50 SERVER Sending plan...
+
+19:23:50 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:50 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:50 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:50 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:50 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:50 receipt: "From: ServerName, To: ClientName, Time: 31, 周二 十一月 24 2015, 19:23:50"
+
+19:23:50 m_totalBytes: 548
+
+19:23:50 Receipt checked.
+
+19:23:50 SERVER Start sending command ...
+
+19:23:50 Receipt: "From: ServerName, To: ClientName, Time: 32, 周二 十一月 24 2015, 19:23:50"
+
+19:23:50 SERVER "SEND COMMAND STOP"
+
+19:23:51 SERVER Start sending command ...
+
+19:23:51 Receipt: "From: ServerName, To: ClientName, Time: 32, 周二 十一月 24 2015, 19:23:51"
+
+19:23:51 SERVER "SEND COMMAND START"
+
+19:23:51 SERVER Sending plan...
+
+19:23:51 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:51 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:51 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:51 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:51 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:51 receipt: "From: ServerName, To: ClientName, Time: 32, 周二 十一月 24 2015, 19:23:51"
+
+19:23:51 m_totalBytes: 548
+
+19:23:51 Receipt checked.
+
+19:23:52 SERVER Sending plan...
+
+19:23:52 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:52 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:52 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:52 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:52 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:52 receipt: "From: ServerName, To: ClientName, Time: 33, 周二 十一月 24 2015, 19:23:52"
+
+19:23:52 m_totalBytes: 548
+
+19:23:52 Receipt checked.
+
+19:23:52 SERVER Sending plan...
+
+19:23:52 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:52 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:52 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:52 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:52 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:52 receipt: "From: ServerName, To: ClientName, Time: 34, 周二 十一月 24 2015, 19:23:52"
+
+19:23:52 m_totalBytes: 548
+
+19:23:52 Receipt checked.
+
+19:23:53 SERVER Sending plan...
+
+19:23:53 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:53 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:53 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:53 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:53 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:53 receipt: "From: ServerName, To: ClientName, Time: 35, 周二 十一月 24 2015, 19:23:53"
+
+19:23:53 m_totalBytes: 548
+
+19:23:53 Receipt checked.
+
+19:23:53 SERVER Start sending command ...
+
+19:23:53 Receipt: "From: ServerName, To: ClientName, Time: 36, 周二 十一月 24 2015, 19:23:53"
+
+19:23:53 SERVER "SEND COMMAND STOP"
+
+19:23:54 SERVER Start sending command ...
+
+19:23:54 Receipt: "From: ServerName, To: ClientName, Time: 36, 周二 十一月 24 2015, 19:23:54"
+
+19:23:54 SERVER "SEND COMMAND STOP"
+
+19:23:54 SERVER Start sending command ...
+
+19:23:54 Receipt: "From: ServerName, To: ClientName, Time: 36, 周二 十一月 24 2015, 19:23:54"
+
+19:23:54 SERVER "SEND COMMAND PAUSE"
+
+19:23:55 SERVER Start sending command ...
+
+19:23:55 Receipt: "From: ServerName, To: ClientName, Time: 36, 周二 十一月 24 2015, 19:23:55"
+
+19:23:55 SERVER "SEND COMMAND START"
+
+19:23:55 SERVER Sending plan...
+
+19:23:55 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:55 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:55 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:55 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:55 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:55 receipt: "From: ServerName, To: ClientName, Time: 36, 周二 十一月 24 2015, 19:23:55"
+
+19:23:55 m_totalBytes: 548
+
+19:23:55 Receipt checked.
+
+19:23:56 SERVER Start sending command ...
+
+19:23:56 Receipt: "From: ServerName, To: ClientName, Time: 37, 周二 十一月 24 2015, 19:23:56"
+
+19:23:56 SERVER "SEND COMMAND STOP"
+
+19:23:56 SERVER Start sending command ...
+
+19:23:56 Receipt: "From: ServerName, To: ClientName, Time: 37, 周二 十一月 24 2015, 19:23:56"
+
+19:23:56 SERVER "SEND COMMAND START"
+
+19:23:57 SERVER Start sending command ...
+
+19:23:57 Receipt: "From: ServerName, To: ClientName, Time: 37, 周二 十一月 24 2015, 19:23:57"
+
+19:23:57 SERVER "SEND COMMAND STOP"
+
+19:23:57 SERVER Start sending command ...
+
+19:23:57 Receipt: "From: ServerName, To: ClientName, Time: 37, 周二 十一月 24 2015, 19:23:57"
+
+19:23:57 SERVER "SEND COMMAND STOP"
+
+19:23:58 SERVER Start sending command ...
+
+19:23:58 Receipt: "From: ServerName, To: ClientName, Time: 37, 周二 十一月 24 2015, 19:23:58"
+
+19:23:58 SERVER "SEND COMMAND START"
+
+19:23:58 SERVER Start sending command ...
+
+19:23:58 Receipt: "From: ServerName, To: ClientName, Time: 37, 周二 十一月 24 2015, 19:23:58"
+
+19:23:58 SERVER "SEND COMMAND START"
+
+19:23:59 SERVER Sending plan...
+
+19:23:59 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:23:59 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:23:59 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:23:59 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:23:59 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:23:59 receipt: "From: ServerName, To: ClientName, Time: 37, 周二 十一月 24 2015, 19:23:59"
+
+19:23:59 m_totalBytes: 548
+
+19:23:59 Receipt checked.
+
+19:23:59 SERVER Start sending command ...
+
+19:23:59 Receipt: "From: ServerName, To: ClientName, Time: 38, 周二 十一月 24 2015, 19:23:59"
+
+19:23:59 SERVER "SEND COMMAND PAUSE"
+
+19:24:00 SERVER Sending plan...
+
+19:24:00 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:00 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:00 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:00 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:00 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:00 receipt: "From: ServerName, To: ClientName, Time: 38, 周二 十一月 24 2015, 19:24:00"
+
+19:24:00 m_totalBytes: 548
+
+19:24:00 Receipt checked.
+
+19:24:00 SERVER Sending plan...
+
+19:24:00 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:00 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:00 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:00 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:00 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:00 receipt: "From: ServerName, To: ClientName, Time: 39, 周二 十一月 24 2015, 19:24:00"
+
+19:24:00 m_totalBytes: 548
+
+19:24:00 Receipt checked.
+
+19:24:01 SERVER Start sending command ...
+
+19:24:01 Receipt: "From: ServerName, To: ClientName, Time: 40, 周二 十一月 24 2015, 19:24:01"
+
+19:24:01 SERVER "SEND COMMAND PAUSE"
+
+19:24:01 SERVER Sending plan...
+
+19:24:01 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:01 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:01 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:01 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:01 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:01 receipt: "From: ServerName, To: ClientName, Time: 40, 周二 十一月 24 2015, 19:24:01"
+
+19:24:01 m_totalBytes: 548
+
+19:24:01 Receipt checked.
+
+19:24:02 SERVER Start sending command ...
+
+19:24:02 Receipt: "From: ServerName, To: ClientName, Time: 41, 周二 十一月 24 2015, 19:24:02"
+
+19:24:02 SERVER "SEND COMMAND PAUSE"
+
+19:24:02 SERVER Start sending command ...
+
+19:24:02 Receipt: "From: ServerName, To: ClientName, Time: 41, 周二 十一月 24 2015, 19:24:02"
+
+19:24:02 SERVER "SEND COMMAND STOP"
+
+19:24:03 SERVER Start sending command ...
+
+19:24:03 Receipt: "From: ServerName, To: ClientName, Time: 41, 周二 十一月 24 2015, 19:24:03"
+
+19:24:03 SERVER "SEND COMMAND PAUSE"
+
+19:24:03 SERVER Sending plan...
+
+19:24:03 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:03 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:03 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:03 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:03 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:03 receipt: "From: ServerName, To: ClientName, Time: 41, 周二 十一月 24 2015, 19:24:03"
+
+19:24:03 m_totalBytes: 548
+
+19:24:03 Receipt checked.
+
+19:24:04 SERVER Start sending command ...
+
+19:24:04 Receipt: "From: ServerName, To: ClientName, Time: 42, 周二 十一月 24 2015, 19:24:04"
+
+19:24:04 SERVER "SEND COMMAND START"
+
+19:24:04 SERVER Sending plan...
+
+19:24:04 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:04 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:04 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:04 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:04 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:04 receipt: "From: ServerName, To: ClientName, Time: 42, 周二 十一月 24 2015, 19:24:04"
+
+19:24:04 m_totalBytes: 548
+
+19:24:04 Receipt checked.
+
+19:24:05 SERVER Sending plan...
+
+19:24:05 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:05 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:05 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:05 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:05 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:05 receipt: "From: ServerName, To: ClientName, Time: 43, 周二 十一月 24 2015, 19:24:05"
+
+19:24:05 m_totalBytes: 548
+
+19:24:05 Receipt checked.
+
+19:24:05 SERVER Start sending command ...
+
+19:24:05 Receipt: "From: ServerName, To: ClientName, Time: 44, 周二 十一月 24 2015, 19:24:05"
+
+19:24:05 SERVER "SEND COMMAND PAUSE"
+
+19:24:06 SERVER Sending plan...
+
+19:24:06 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:06 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:06 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:06 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:06 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:06 receipt: "From: ServerName, To: ClientName, Time: 44, 周二 十一月 24 2015, 19:24:06"
+
+19:24:06 m_totalBytes: 548
+
+19:24:06 Receipt checked.
+
+19:24:06 SERVER Start sending command ...
+
+19:24:06 Receipt: "From: ServerName, To: ClientName, Time: 45, 周二 十一月 24 2015, 19:24:06"
+
+19:24:06 SERVER "SEND COMMAND STOP"
+
+19:24:07 SERVER Start sending command ...
+
+19:24:07 Receipt: "From: ServerName, To: ClientName, Time: 45, 周二 十一月 24 2015, 19:24:07"
+
+19:24:07 SERVER "SEND COMMAND PAUSE"
+
+19:24:07 SERVER Start sending command ...
+
+19:24:07 Receipt: "From: ServerName, To: ClientName, Time: 45, 周二 十一月 24 2015, 19:24:07"
+
+19:24:07 SERVER "SEND COMMAND START"
+
+19:24:08 SERVER Start sending command ...
+
+19:24:08 Receipt: "From: ServerName, To: ClientName, Time: 45, 周二 十一月 24 2015, 19:24:08"
+
+19:24:08 SERVER "SEND COMMAND STOP"
+
+19:24:08 SERVER Start sending command ...
+
+19:24:08 Receipt: "From: ServerName, To: ClientName, Time: 45, 周二 十一月 24 2015, 19:24:08"
+
+19:24:08 SERVER "SEND COMMAND PAUSE"
+
+19:24:09 SERVER Start sending command ...
+
+19:24:09 Receipt: "From: ServerName, To: ClientName, Time: 45, 周二 十一月 24 2015, 19:24:09"
+
+19:24:09 SERVER "SEND COMMAND START"
+
+19:24:09 SERVER Start sending command ...
+
+19:24:09 Receipt: "From: ServerName, To: ClientName, Time: 45, 周二 十一月 24 2015, 19:24:09"
+
+19:24:09 SERVER "SEND COMMAND PAUSE"
+
+19:24:10 SERVER Start sending command ...
+
+19:24:10 Receipt: "From: ServerName, To: ClientName, Time: 45, 周二 十一月 24 2015, 19:24:10"
+
+19:24:10 SERVER "SEND COMMAND START"
+
+19:24:10 SERVER Start sending command ...
+
+19:24:10 Receipt: "From: ServerName, To: ClientName, Time: 45, 周二 十一月 24 2015, 19:24:10"
+
+19:24:10 SERVER "SEND COMMAND PAUSE"
+
+19:24:11 SERVER Sending plan...
+
+19:24:11 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:11 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:11 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:11 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:11 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:11 receipt: "From: ServerName, To: ClientName, Time: 45, 周二 十一月 24 2015, 19:24:11"
+
+19:24:11 m_totalBytes: 548
+
+19:24:11 Receipt checked.
+
+19:24:11 SERVER Start sending command ...
+
+19:24:11 Receipt: "From: ServerName, To: ClientName, Time: 46, 周二 十一月 24 2015, 19:24:11"
+
+19:24:11 SERVER "SEND COMMAND PAUSE"
+
+19:24:12 SERVER Sending plan...
+
+19:24:12 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:12 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:12 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:12 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:12 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:12 receipt: "From: ServerName, To: ClientName, Time: 46, 周二 十一月 24 2015, 19:24:12"
+
+19:24:12 m_totalBytes: 548
+
+19:24:12 Receipt checked.
+
+19:24:12 SERVER Start sending command ...
+
+19:24:12 Receipt: "From: ServerName, To: ClientName, Time: 47, 周二 十一月 24 2015, 19:24:12"
+
+19:24:12 SERVER "SEND COMMAND STOP"
+
+19:24:13 SERVER Sending plan...
+
+19:24:13 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:13 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:13 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:13 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:13 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:13 receipt: "From: ServerName, To: ClientName, Time: 47, 周二 十一月 24 2015, 19:24:13"
+
+19:24:13 m_totalBytes: 548
+
+19:24:13 Receipt checked.
+
+19:24:13 SERVER Start sending command ...
+
+19:24:13 Receipt: "From: ServerName, To: ClientName, Time: 48, 周二 十一月 24 2015, 19:24:13"
+
+19:24:13 SERVER "SEND COMMAND START"
+
+19:24:14 SERVER Start sending command ...
+
+19:24:14 Receipt: "From: ServerName, To: ClientName, Time: 48, 周二 十一月 24 2015, 19:24:14"
+
+19:24:14 SERVER "SEND COMMAND START"
+
+19:24:14 SERVER Start sending command ...
+
+19:24:14 Receipt: "From: ServerName, To: ClientName, Time: 48, 周二 十一月 24 2015, 19:24:14"
+
+19:24:14 SERVER "SEND COMMAND START"
+
+19:24:15 Check times:  4
+
+19:24:15 Receipt checked.
+
+19:24:15 SERVER Start sending command ...
+
+19:24:15 Receipt: "From: ServerName, To: ClientName, Time: 49, 周二 十一月 24 2015, 19:24:15"
+
+19:24:15 SERVER "SEND COMMAND START"
+
+19:24:15 SERVER Sending plan...
+
+19:24:15 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:15 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:15 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:15 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:15 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:15 receipt: "From: ServerName, To: ClientName, Time: 49, 周二 十一月 24 2015, 19:24:15"
+
+19:24:15 m_totalBytes: 548
+
+19:24:16 Receipt checked.
+
+19:24:16 SERVER Start sending command ...
+
+19:24:16 Receipt: "From: ServerName, To: ClientName, Time: 50, 周二 十一月 24 2015, 19:24:16"
+
+19:24:16 SERVER "SEND COMMAND STOP"
+
+19:24:16 SERVER Start sending command ...
+
+19:24:16 Receipt: "From: ServerName, To: ClientName, Time: 50, 周二 十一月 24 2015, 19:24:16"
+
+19:24:16 SERVER "SEND COMMAND PAUSE"
+
+19:24:17 SERVER Sending plan...
+
+19:24:17 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:17 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:17 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:17 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:17 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:17 receipt: "From: ServerName, To: ClientName, Time: 50, 周二 十一月 24 2015, 19:24:17"
+
+19:24:17 m_totalBytes: 548
+
+19:24:17 Receipt checked.
+
+19:24:17 SERVER Start sending command ...
+
+19:24:17 Receipt: "From: ServerName, To: ClientName, Time: 51, 周二 十一月 24 2015, 19:24:17"
+
+19:24:17 SERVER "SEND COMMAND PAUSE"
+
+19:24:18 SERVER Sending plan...
+
+19:24:18 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:18 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:18 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:18 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:18 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:18 receipt: "From: ServerName, To: ClientName, Time: 51, 周二 十一月 24 2015, 19:24:18"
+
+19:24:18 m_totalBytes: 548
+
+19:24:18 Receipt checked.
+
+19:24:18 SERVER Start sending command ...
+
+19:24:18 Receipt: "From: ServerName, To: ClientName, Time: 52, 周二 十一月 24 2015, 19:24:18"
+
+19:24:18 SERVER "SEND COMMAND STOP"
+
+19:24:19 SERVER Start sending command ...
+
+19:24:19 Receipt: "From: ServerName, To: ClientName, Time: 52, 周二 十一月 24 2015, 19:24:19"
+
+19:24:19 SERVER "SEND COMMAND PAUSE"
+
+19:24:19 SERVER Start sending command ...
+
+19:24:19 Receipt: "From: ServerName, To: ClientName, Time: 52, 周二 十一月 24 2015, 19:24:19"
+
+19:24:19 SERVER "SEND COMMAND START"
+
+19:24:20 SERVER Start sending command ...
+
+19:24:20 Receipt: "From: ServerName, To: ClientName, Time: 52, 周二 十一月 24 2015, 19:24:20"
+
+19:24:20 SERVER "SEND COMMAND STOP"
+
+19:24:21 SERVER Start sending command ...
+
+19:24:21 Receipt: "From: ServerName, To: ClientName, Time: 52, 周二 十一月 24 2015, 19:24:21"
+
+19:24:21 SERVER "SEND COMMAND START"
+
+19:24:21 SERVER Start sending command ...
+
+19:24:21 Receipt: "From: ServerName, To: ClientName, Time: 52, 周二 十一月 24 2015, 19:24:21"
+
+19:24:21 SERVER "SEND COMMAND STOP"
+
+19:24:22 SERVER Sending plan...
+
+19:24:22 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:22 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:22 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:22 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:22 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:22 receipt: "From: ServerName, To: ClientName, Time: 52, 周二 十一月 24 2015, 19:24:22"
+
+19:24:22 m_totalBytes: 548
+
+19:24:22 Receipt checked.
+
+19:24:22 SERVER Start sending command ...
+
+19:24:22 Receipt: "From: ServerName, To: ClientName, Time: 53, 周二 十一月 24 2015, 19:24:22"
+
+19:24:22 SERVER "SEND COMMAND START"
+
+19:24:23 SERVER Start sending command ...
+
+19:24:23 Receipt: "From: ServerName, To: ClientName, Time: 53, 周二 十一月 24 2015, 19:24:23"
+
+19:24:23 SERVER "SEND COMMAND PAUSE"
+
+19:24:23 SERVER Sending plan...
+
+19:24:23 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:23 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:23 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:23 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:23 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:23 receipt: "From: ServerName, To: ClientName, Time: 53, 周二 十一月 24 2015, 19:24:23"
+
+19:24:23 m_totalBytes: 548
+
+19:24:23 Receipt checked.
+
+19:24:24 SERVER Start sending command ...
+
+19:24:24 Receipt: "From: ServerName, To: ClientName, Time: 54, 周二 十一月 24 2015, 19:24:24"
+
+19:24:24 SERVER "SEND COMMAND STOP"
+
+19:24:24 SERVER Start sending command ...
+
+19:24:24 Receipt: "From: ServerName, To: ClientName, Time: 54, 周二 十一月 24 2015, 19:24:24"
+
+19:24:24 SERVER "SEND COMMAND PAUSE"
+
+19:24:25 SERVER Start sending command ...
+
+19:24:25 Receipt: "From: ServerName, To: ClientName, Time: 54, 周二 十一月 24 2015, 19:24:25"
+
+19:24:25 SERVER "SEND COMMAND START"
+
+19:24:25 SERVER Start sending command ...
+
+19:24:25 Receipt: "From: ServerName, To: ClientName, Time: 54, 周二 十一月 24 2015, 19:24:25"
+
+19:24:25 SERVER "SEND COMMAND START"
+
+19:24:26 SERVER Sending plan...
+
+19:24:26 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:26 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:26 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:26 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:26 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:26 receipt: "From: ServerName, To: ClientName, Time: 54, 周二 十一月 24 2015, 19:24:26"
+
+19:24:26 m_totalBytes: 548
+
+19:24:26 Receipt checked.
+
+19:24:26 SERVER Start sending command ...
+
+19:24:26 Receipt: "From: ServerName, To: ClientName, Time: 55, 周二 十一月 24 2015, 19:24:26"
+
+19:24:26 SERVER "SEND COMMAND START"
+
+19:24:27 SERVER Sending plan...
+
+19:24:27 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:27 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:27 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:27 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:27 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:27 receipt: "From: ServerName, To: ClientName, Time: 55, 周二 十一月 24 2015, 19:24:27"
+
+19:24:27 m_totalBytes: 548
+
+19:24:27 Receipt checked.
+
+19:24:27 SERVER Start sending command ...
+
+19:24:27 Receipt: "From: ServerName, To: ClientName, Time: 56, 周二 十一月 24 2015, 19:24:27"
+
+19:24:27 SERVER "SEND COMMAND STOP"
+
+19:24:28 SERVER Start sending command ...
+
+19:24:28 Receipt: "From: ServerName, To: ClientName, Time: 56, 周二 十一月 24 2015, 19:24:28"
+
+19:24:28 SERVER "SEND COMMAND PAUSE"
+
+19:24:28 SERVER Sending plan...
+
+19:24:28 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:28 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:28 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:28 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:28 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:28 receipt: "From: ServerName, To: ClientName, Time: 56, 周二 十一月 24 2015, 19:24:28"
+
+19:24:28 m_totalBytes: 548
+
+19:24:28 Receipt checked.
+
+19:24:29 SERVER Sending plan...
+
+19:24:29 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:29 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:29 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:29 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:29 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:29 receipt: "From: ServerName, To: ClientName, Time: 57, 周二 十一月 24 2015, 19:24:29"
+
+19:24:29 m_totalBytes: 548
+
+19:24:29 Receipt checked.
+
+19:24:29 SERVER Start sending command ...
+
+19:24:29 Receipt: "From: ServerName, To: ClientName, Time: 58, 周二 十一月 24 2015, 19:24:29"
+
+19:24:29 SERVER "SEND COMMAND START"
+
+19:24:30 SERVER Start sending command ...
+
+19:24:30 Receipt: "From: ServerName, To: ClientName, Time: 58, 周二 十一月 24 2015, 19:24:30"
+
+19:24:30 SERVER "SEND COMMAND START"
+
+19:24:30 SERVER Start sending command ...
+
+19:24:30 Receipt: "From: ServerName, To: ClientName, Time: 58, 周二 十一月 24 2015, 19:24:30"
+
+19:24:30 SERVER "SEND COMMAND PAUSE"
+
+19:24:31 SERVER Start sending command ...
+
+19:24:31 Receipt: "From: ServerName, To: ClientName, Time: 58, 周二 十一月 24 2015, 19:24:31"
+
+19:24:31 SERVER "SEND COMMAND START"
+
+19:24:31 SERVER Start sending command ...
+
+19:24:31 Receipt: "From: ServerName, To: ClientName, Time: 58, 周二 十一月 24 2015, 19:24:31"
+
+19:24:31 SERVER "SEND COMMAND STOP"
+
+19:24:32 SERVER Start sending command ...
+
+19:24:32 Receipt: "From: ServerName, To: ClientName, Time: 58, 周二 十一月 24 2015, 19:24:32"
+
+19:24:32 SERVER "SEND COMMAND START"
+
+19:24:32 SERVER Start sending command ...
+
+19:24:32 Receipt: "From: ServerName, To: ClientName, Time: 58, 周二 十一月 24 2015, 19:24:32"
+
+19:24:32 SERVER "SEND COMMAND START"
+
+19:24:33 SERVER Sending plan...
+
+19:24:33 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:33 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:33 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:33 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:33 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:33 receipt: "From: ServerName, To: ClientName, Time: 58, 周二 十一月 24 2015, 19:24:33"
+
+19:24:33 m_totalBytes: 548
+
+19:24:33 Receipt checked.
+
+19:24:33 SERVER Start sending command ...
+
+19:24:33 Receipt: "From: ServerName, To: ClientName, Time: 59, 周二 十一月 24 2015, 19:24:33"
+
+19:24:33 SERVER "SEND COMMAND START"
+
+19:24:34 SERVER Start sending command ...
+
+19:24:34 Receipt: "From: ServerName, To: ClientName, Time: 59, 周二 十一月 24 2015, 19:24:34"
+
+19:24:34 SERVER "SEND COMMAND PAUSE"
+
+19:24:34 SERVER Start sending command ...
+
+19:24:34 Receipt: "From: ServerName, To: ClientName, Time: 59, 周二 十一月 24 2015, 19:24:34"
+
+19:24:34 SERVER "SEND COMMAND START"
+
+19:24:35 SERVER Start sending command ...
+
+19:24:35 Receipt: "From: ServerName, To: ClientName, Time: 59, 周二 十一月 24 2015, 19:24:35"
+
+19:24:35 SERVER "SEND COMMAND PAUSE"
+
+19:24:35 SERVER Sending plan...
+
+19:24:35 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:35 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:35 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:35 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:35 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:35 receipt: "From: ServerName, To: ClientName, Time: 59, 周二 十一月 24 2015, 19:24:35"
+
+19:24:35 m_totalBytes: 548
+
+19:24:35 Receipt checked.
+
+19:24:36 SERVER Sending plan...
+
+19:24:36 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:36 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:36 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:36 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:36 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:36 receipt: "From: ServerName, To: ClientName, Time: 60, 周二 十一月 24 2015, 19:24:36"
+
+19:24:36 m_totalBytes: 548
+
+19:24:36 Receipt checked.
+
+19:24:36 SERVER Sending plan...
+
+19:24:36 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:36 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:36 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:36 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:36 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:36 receipt: "From: ServerName, To: ClientName, Time: 61, 周二 十一月 24 2015, 19:24:36"
+
+19:24:36 m_totalBytes: 548
+
+19:24:36 Receipt checked.
+
+19:24:37 SERVER Start sending command ...
+
+19:24:37 Receipt: "From: ServerName, To: ClientName, Time: 62, 周二 十一月 24 2015, 19:24:37"
+
+19:24:37 SERVER "SEND COMMAND PAUSE"
+
+19:24:37 SERVER Start sending command ...
+
+19:24:37 Receipt: "From: ServerName, To: ClientName, Time: 62, 周二 十一月 24 2015, 19:24:37"
+
+19:24:37 SERVER "SEND COMMAND PAUSE"
+
+19:24:38 SERVER Start sending command ...
+
+19:24:38 Receipt: "From: ServerName, To: ClientName, Time: 62, 周二 十一月 24 2015, 19:24:38"
+
+19:24:38 SERVER "SEND COMMAND PAUSE"
+
+19:24:38 SERVER Start sending command ...
+
+19:24:38 Receipt: "From: ServerName, To: ClientName, Time: 62, 周二 十一月 24 2015, 19:24:38"
+
+19:24:38 SERVER "SEND COMMAND STOP"
+
+19:24:39 SERVER Start sending command ...
+
+19:24:39 Receipt: "From: ServerName, To: ClientName, Time: 62, 周二 十一月 24 2015, 19:24:39"
+
+19:24:39 SERVER "SEND COMMAND PAUSE"
+
+19:24:39 SERVER Start sending command ...
+
+19:24:39 Receipt: "From: ServerName, To: ClientName, Time: 62, 周二 十一月 24 2015, 19:24:39"
+
+19:24:39 SERVER "SEND COMMAND STOP"
+
+19:24:40 SERVER Start sending command ...
+
+19:24:40 Receipt: "From: ServerName, To: ClientName, Time: 62, 周二 十一月 24 2015, 19:24:40"
+
+19:24:40 SERVER "SEND COMMAND START"
+
+19:24:40 SERVER Start sending command ...
+
+19:24:40 Receipt: "From: ServerName, To: ClientName, Time: 62, 周二 十一月 24 2015, 19:24:40"
+
+19:24:40 SERVER "SEND COMMAND START"
+
+19:24:41 SERVER Start sending command ...
+
+19:24:41 Receipt: "From: ServerName, To: ClientName, Time: 62, 周二 十一月 24 2015, 19:24:41"
+
+19:24:41 SERVER "SEND COMMAND PAUSE"
+
+19:24:41 SERVER Sending plan...
+
+19:24:41 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:41 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:41 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:41 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:41 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:41 receipt: "From: ServerName, To: ClientName, Time: 62, 周二 十一月 24 2015, 19:24:41"
+
+19:24:41 m_totalBytes: 548
+
+19:24:41 Receipt checked.
+
+19:24:42 SERVER Start sending command ...
+
+19:24:42 Receipt: "From: ServerName, To: ClientName, Time: 63, 周二 十一月 24 2015, 19:24:42"
+
+19:24:42 SERVER "SEND COMMAND START"
+
+19:24:42 SERVER Start sending command ...
+
+19:24:42 Receipt: "From: ServerName, To: ClientName, Time: 63, 周二 十一月 24 2015, 19:24:42"
+
+19:24:42 SERVER "SEND COMMAND PAUSE"
+
+19:24:43 SERVER Start sending command ...
+
+19:24:43 Receipt: "From: ServerName, To: ClientName, Time: 63, 周二 十一月 24 2015, 19:24:43"
+
+19:24:43 SERVER "SEND COMMAND STOP"
+
+19:24:43 SERVER Start sending command ...
+
+19:24:43 Receipt: "From: ServerName, To: ClientName, Time: 63, 周二 十一月 24 2015, 19:24:43"
+
+19:24:43 SERVER "SEND COMMAND STOP"
+
+19:24:44 SERVER Start sending command ...
+
+19:24:44 Receipt: "From: ServerName, To: ClientName, Time: 63, 周二 十一月 24 2015, 19:24:44"
+
+19:24:44 SERVER "SEND COMMAND START"
+
+19:24:44 SERVER Start sending command ...
+
+19:24:44 Receipt: "From: ServerName, To: ClientName, Time: 63, 周二 十一月 24 2015, 19:24:44"
+
+19:24:44 SERVER "SEND COMMAND START"
+
+19:24:45 Check times:  5
+
+19:24:45 Receipt checked.
+
+19:24:45 SERVER Sending plan...
+
+19:24:45 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:45 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:45 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:45 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:45 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:45 receipt: "From: ServerName, To: ClientName, Time: 64, 周二 十一月 24 2015, 19:24:45"
+
+19:24:45 m_totalBytes: 548
+
+19:24:45 Receipt checked.
+
+19:24:45 SERVER Start sending command ...
+
+19:24:45 Receipt: "From: ServerName, To: ClientName, Time: 65, 周二 十一月 24 2015, 19:24:45"
+
+19:24:45 SERVER "SEND COMMAND START"
+
+19:24:46 SERVER Start sending command ...
+
+19:24:46 Receipt: "From: ServerName, To: ClientName, Time: 65, 周二 十一月 24 2015, 19:24:46"
+
+19:24:46 SERVER "SEND COMMAND STOP"
+
+19:24:46 SERVER Sending plan...
+
+19:24:46 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:46 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:46 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:46 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:46 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:46 receipt: "From: ServerName, To: ClientName, Time: 65, 周二 十一月 24 2015, 19:24:46"
+
+19:24:46 m_totalBytes: 548
+
+19:24:46 Receipt checked.
+
+19:24:47 SERVER Start sending command ...
+
+19:24:47 Receipt: "From: ServerName, To: ClientName, Time: 66, 周二 十一月 24 2015, 19:24:47"
+
+19:24:47 SERVER "SEND COMMAND PAUSE"
+
+19:24:47 SERVER Sending plan...
+
+19:24:47 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:47 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:47 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:47 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:47 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:47 receipt: "From: ServerName, To: ClientName, Time: 66, 周二 十一月 24 2015, 19:24:47"
+
+19:24:47 m_totalBytes: 548
+
+19:24:48 Receipt checked.
+
+19:24:48 SERVER Sending plan...
+
+19:24:48 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:48 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:48 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:48 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:48 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:48 receipt: "From: ServerName, To: ClientName, Time: 67, 周二 十一月 24 2015, 19:24:48"
+
+19:24:48 m_totalBytes: 548
+
+19:24:48 Receipt checked.
+
+19:24:48 SERVER Start sending command ...
+
+19:24:48 Receipt: "From: ServerName, To: ClientName, Time: 68, 周二 十一月 24 2015, 19:24:48"
+
+19:24:48 SERVER "SEND COMMAND PAUSE"
+
+19:24:49 SERVER Start sending command ...
+
+19:24:49 Receipt: "From: ServerName, To: ClientName, Time: 68, 周二 十一月 24 2015, 19:24:49"
+
+19:24:49 SERVER "SEND COMMAND START"
+
+19:24:49 SERVER Start sending command ...
+
+19:24:49 Receipt: "From: ServerName, To: ClientName, Time: 68, 周二 十一月 24 2015, 19:24:49"
+
+19:24:49 SERVER "SEND COMMAND STOP"
+
+19:24:50 SERVER Start sending command ...
+
+19:24:50 Receipt: "From: ServerName, To: ClientName, Time: 68, 周二 十一月 24 2015, 19:24:50"
+
+19:24:50 SERVER "SEND COMMAND PAUSE"
+
+19:24:50 SERVER Start sending command ...
+
+19:24:50 Receipt: "From: ServerName, To: ClientName, Time: 68, 周二 十一月 24 2015, 19:24:50"
+
+19:24:50 SERVER "SEND COMMAND STOP"
+
+19:24:51 SERVER Start sending command ...
+
+19:24:51 Receipt: "From: ServerName, To: ClientName, Time: 68, 周二 十一月 24 2015, 19:24:51"
+
+19:24:51 SERVER "SEND COMMAND STOP"
+
+19:24:51 SERVER Sending plan...
+
+19:24:51 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:51 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:51 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:51 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:51 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:51 receipt: "From: ServerName, To: ClientName, Time: 68, 周二 十一月 24 2015, 19:24:51"
+
+19:24:51 m_totalBytes: 548
+
+19:24:51 Receipt checked.
+
+19:24:52 SERVER Start sending command ...
+
+19:24:52 Receipt: "From: ServerName, To: ClientName, Time: 69, 周二 十一月 24 2015, 19:24:52"
+
+19:24:52 SERVER "SEND COMMAND START"
+
+19:24:52 SERVER Sending plan...
+
+19:24:52 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:52 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:52 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:52 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:52 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:52 receipt: "From: ServerName, To: ClientName, Time: 69, 周二 十一月 24 2015, 19:24:52"
+
+19:24:52 m_totalBytes: 548
+
+19:24:53 Receipt checked.
+
+19:24:53 SERVER Sending plan...
+
+19:24:53 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:53 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:53 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:53 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:53 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:53 receipt: "From: ServerName, To: ClientName, Time: 70, 周二 十一月 24 2015, 19:24:53"
+
+19:24:53 m_totalBytes: 548
+
+19:24:53 Receipt checked.
+
+19:24:53 SERVER Start sending command ...
+
+19:24:53 Receipt: "From: ServerName, To: ClientName, Time: 71, 周二 十一月 24 2015, 19:24:53"
+
+19:24:53 SERVER "SEND COMMAND PAUSE"
+
+19:24:54 SERVER Start sending command ...
+
+19:24:54 Receipt: "From: ServerName, To: ClientName, Time: 71, 周二 十一月 24 2015, 19:24:54"
+
+19:24:54 SERVER "SEND COMMAND START"
+
+19:24:54 SERVER Start sending command ...
+
+19:24:54 Receipt: "From: ServerName, To: ClientName, Time: 71, 周二 十一月 24 2015, 19:24:54"
+
+19:24:54 SERVER "SEND COMMAND PAUSE"
+
+19:24:55 SERVER Sending plan...
+
+19:24:55 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:55 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:55 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:55 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:55 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:55 receipt: "From: ServerName, To: ClientName, Time: 71, 周二 十一月 24 2015, 19:24:55"
+
+19:24:55 m_totalBytes: 548
+
+19:24:55 Receipt checked.
+
+19:24:55 SERVER Start sending command ...
+
+19:24:55 Receipt: "From: ServerName, To: ClientName, Time: 72, 周二 十一月 24 2015, 19:24:55"
+
+19:24:55 SERVER "SEND COMMAND STOP"
+
+19:24:56 SERVER Start sending command ...
+
+19:24:56 Receipt: "From: ServerName, To: ClientName, Time: 72, 周二 十一月 24 2015, 19:24:56"
+
+19:24:56 SERVER "SEND COMMAND STOP"
+
+19:24:57 SERVER Start sending command ...
+
+19:24:57 Receipt: "From: ServerName, To: ClientName, Time: 72, 周二 十一月 24 2015, 19:24:57"
+
+19:24:57 SERVER "SEND COMMAND STOP"
+
+19:24:57 SERVER Sending plan...
+
+19:24:57 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:57 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:57 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:57 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:57 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:57 receipt: "From: ServerName, To: ClientName, Time: 72, 周二 十一月 24 2015, 19:24:57"
+
+19:24:57 m_totalBytes: 548
+
+19:24:57 Receipt checked.
+
+19:24:58 SERVER Start sending command ...
+
+19:24:58 Receipt: "From: ServerName, To: ClientName, Time: 73, 周二 十一月 24 2015, 19:24:58"
+
+19:24:58 SERVER "SEND COMMAND START"
+
+19:24:58 SERVER Start sending command ...
+
+19:24:58 Receipt: "From: ServerName, To: ClientName, Time: 73, 周二 十一月 24 2015, 19:24:58"
+
+19:24:58 SERVER "SEND COMMAND START"
+
+19:24:59 SERVER Sending plan...
+
+19:24:59 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:59 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:59 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:59 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:59 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:59 receipt: "From: ServerName, To: ClientName, Time: 73, 周二 十一月 24 2015, 19:24:59"
+
+19:24:59 m_totalBytes: 548
+
+19:24:59 Receipt checked.
+
+19:24:59 SERVER Sending plan...
+
+19:24:59 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:24:59 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:24:59 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:24:59 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:24:59 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:24:59 receipt: "From: ServerName, To: ClientName, Time: 74, 周二 十一月 24 2015, 19:24:59"
+
+19:24:59 m_totalBytes: 548
+
+19:24:59 Receipt checked.
+
+19:25:00 SERVER Sending plan...
+
+19:25:00 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:00 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:00 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:00 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:00 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:00 receipt: "From: ServerName, To: ClientName, Time: 75, 周二 十一月 24 2015, 19:25:00"
+
+19:25:00 m_totalBytes: 548
+
+19:25:00 Receipt checked.
+
+19:25:00 SERVER Sending plan...
+
+19:25:00 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:00 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:00 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:00 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:00 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:00 receipt: "From: ServerName, To: ClientName, Time: 76, 周二 十一月 24 2015, 19:25:00"
+
+19:25:00 m_totalBytes: 548
+
+19:25:00 Receipt checked.
+
+19:25:01 SERVER Start sending command ...
+
+19:25:01 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:01"
+
+19:25:01 SERVER "SEND COMMAND PAUSE"
+
+19:25:01 SERVER Start sending command ...
+
+19:25:01 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:01"
+
+19:25:01 SERVER "SEND COMMAND START"
+
+19:25:02 SERVER Start sending command ...
+
+19:25:02 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:02"
+
+19:25:02 SERVER "SEND COMMAND PAUSE"
+
+19:25:02 SERVER Start sending command ...
+
+19:25:02 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:02"
+
+19:25:02 SERVER "SEND COMMAND PAUSE"
+
+19:25:03 SERVER Start sending command ...
+
+19:25:03 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:03"
+
+19:25:03 SERVER "SEND COMMAND STOP"
+
+19:25:03 SERVER Start sending command ...
+
+19:25:03 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:03"
+
+19:25:03 SERVER "SEND COMMAND PAUSE"
+
+19:25:04 SERVER Start sending command ...
+
+19:25:04 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:04"
+
+19:25:04 SERVER "SEND COMMAND START"
+
+19:25:04 SERVER Start sending command ...
+
+19:25:04 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:04"
+
+19:25:04 SERVER "SEND COMMAND STOP"
+
+19:25:05 SERVER Start sending command ...
+
+19:25:05 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:05"
+
+19:25:05 SERVER "SEND COMMAND START"
+
+19:25:05 SERVER Start sending command ...
+
+19:25:05 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:05"
+
+19:25:05 SERVER "SEND COMMAND PAUSE"
+
+19:25:06 SERVER Start sending command ...
+
+19:25:06 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:06"
+
+19:25:06 SERVER "SEND COMMAND PAUSE"
+
+19:25:06 SERVER Start sending command ...
+
+19:25:06 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:06"
+
+19:25:06 SERVER "SEND COMMAND STOP"
+
+19:25:07 SERVER Start sending command ...
+
+19:25:07 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:07"
+
+19:25:07 SERVER "SEND COMMAND START"
+
+19:25:07 SERVER Start sending command ...
+
+19:25:07 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:07"
+
+19:25:07 SERVER "SEND COMMAND STOP"
+
+19:25:08 SERVER Start sending command ...
+
+19:25:08 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:08"
+
+19:25:08 SERVER "SEND COMMAND STOP"
+
+19:25:08 SERVER Start sending command ...
+
+19:25:08 Receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:08"
+
+19:25:08 SERVER "SEND COMMAND START"
+
+19:25:09 SERVER Sending plan...
+
+19:25:09 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:09 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:09 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:09 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:09 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:09 receipt: "From: ServerName, To: ClientName, Time: 77, 周二 十一月 24 2015, 19:25:09"
+
+19:25:09 m_totalBytes: 548
+
+19:25:09 Receipt checked.
+
+19:25:09 SERVER Sending plan...
+
+19:25:09 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:09 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:09 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:09 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:09 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:09 receipt: "From: ServerName, To: ClientName, Time: 78, 周二 十一月 24 2015, 19:25:09"
+
+19:25:09 m_totalBytes: 548
+
+19:25:09 Receipt checked.
+
+19:25:10 SERVER Sending plan...
+
+19:25:10 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:10 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:10 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:10 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:10 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:10 receipt: "From: ServerName, To: ClientName, Time: 79, 周二 十一月 24 2015, 19:25:10"
+
+19:25:10 m_totalBytes: 548
+
+19:25:10 Receipt checked.
+
+19:25:10 SERVER Sending plan...
+
+19:25:10 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:10 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:10 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:10 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:10 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:10 receipt: "From: ServerName, To: ClientName, Time: 80, 周二 十一月 24 2015, 19:25:10"
+
+19:25:10 m_totalBytes: 548
+
+19:25:10 Receipt checked.
+
+19:25:11 SERVER Start sending command ...
+
+19:25:11 Receipt: "From: ServerName, To: ClientName, Time: 81, 周二 十一月 24 2015, 19:25:11"
+
+19:25:11 SERVER "SEND COMMAND PAUSE"
+
+19:25:11 SERVER Start sending command ...
+
+19:25:11 Receipt: "From: ServerName, To: ClientName, Time: 81, 周二 十一月 24 2015, 19:25:11"
+
+19:25:11 SERVER "SEND COMMAND PAUSE"
+
+19:25:12 SERVER Start sending command ...
+
+19:25:12 Receipt: "From: ServerName, To: ClientName, Time: 81, 周二 十一月 24 2015, 19:25:12"
+
+19:25:12 SERVER "SEND COMMAND PAUSE"
+
+19:25:12 SERVER Start sending command ...
+
+19:25:12 Receipt: "From: ServerName, To: ClientName, Time: 81, 周二 十一月 24 2015, 19:25:12"
+
+19:25:12 SERVER "SEND COMMAND STOP"
+
+19:25:13 SERVER Sending plan...
+
+19:25:13 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:13 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:13 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:13 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:13 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:13 receipt: "From: ServerName, To: ClientName, Time: 81, 周二 十一月 24 2015, 19:25:13"
+
+19:25:13 m_totalBytes: 548
+
+19:25:13 Receipt checked.
+
+19:25:13 SERVER Start sending command ...
+
+19:25:13 Receipt: "From: ServerName, To: ClientName, Time: 82, 周二 十一月 24 2015, 19:25:13"
+
+19:25:13 SERVER "SEND COMMAND START"
+
+19:25:14 SERVER Start sending command ...
+
+19:25:14 Receipt: "From: ServerName, To: ClientName, Time: 82, 周二 十一月 24 2015, 19:25:14"
+
+19:25:14 SERVER "SEND COMMAND PAUSE"
+
+19:25:14 SERVER Start sending command ...
+
+19:25:14 Receipt: "From: ServerName, To: ClientName, Time: 82, 周二 十一月 24 2015, 19:25:14"
+
+19:25:14 SERVER "SEND COMMAND START"
+
+19:25:15 SERVER Start sending command ...
+
+19:25:15 Receipt: "From: ServerName, To: ClientName, Time: 82, 周二 十一月 24 2015, 19:25:15"
+
+19:25:15 SERVER "SEND COMMAND PAUSE"
+
+19:25:15 Warning: SERVER Socket block !
+
+19:25:15 SERVER Sending plan...
+
+19:25:15 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:15 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:15 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:15 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:15 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:15 receipt: "From: ServerName, To: ClientName, Time: 82, 周二 十一月 24 2015, 19:25:15"
+
+19:25:15 m_totalBytes: 548
+
+19:25:15 Receipt checked.
+
+19:25:16 SERVER Start sending command ...
+
+19:25:16 Receipt: "From: ServerName, To: ClientName, Time: 83, 周二 十一月 24 2015, 19:25:16"
+
+19:25:16 SERVER "SEND COMMAND STOP"
+
+19:25:16 SERVER Start sending command ...
+
+19:25:16 Receipt: "From: ServerName, To: ClientName, Time: 83, 周二 十一月 24 2015, 19:25:16"
+
+19:25:16 SERVER "SEND COMMAND PAUSE"
+
+19:25:17 SERVER Start sending command ...
+
+19:25:17 Receipt: "From: ServerName, To: ClientName, Time: 83, 周二 十一月 24 2015, 19:25:17"
+
+19:25:17 SERVER "SEND COMMAND PAUSE"
+
+19:25:17 SERVER Start sending command ...
+
+19:25:17 Receipt: "From: ServerName, To: ClientName, Time: 83, 周二 十一月 24 2015, 19:25:17"
+
+19:25:17 SERVER "SEND COMMAND STOP"
+
+19:25:18 SERVER Start sending command ...
+
+19:25:18 Receipt: "From: ServerName, To: ClientName, Time: 83, 周二 十一月 24 2015, 19:25:18"
+
+19:25:18 SERVER "SEND COMMAND PAUSE"
+
+19:25:18 SERVER Start sending command ...
+
+19:25:18 Receipt: "From: ServerName, To: ClientName, Time: 83, 周二 十一月 24 2015, 19:25:18"
+
+19:25:18 SERVER "SEND COMMAND STOP"
+
+19:25:19 SERVER Sending plan...
+
+19:25:19 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:19 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:19 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:19 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:19 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:19 receipt: "From: ServerName, To: ClientName, Time: 83, 周二 十一月 24 2015, 19:25:19"
+
+19:25:19 m_totalBytes: 548
+
+19:25:19 Receipt checked.
+
+19:25:19 SERVER Start sending command ...
+
+19:25:19 Receipt: "From: ServerName, To: ClientName, Time: 84, 周二 十一月 24 2015, 19:25:19"
+
+19:25:19 SERVER "SEND COMMAND PAUSE"
+
+19:25:20 SERVER Start sending command ...
+
+19:25:20 Receipt: "From: ServerName, To: ClientName, Time: 84, 周二 十一月 24 2015, 19:25:20"
+
+19:25:20 SERVER "SEND COMMAND START"
+
+19:25:20 SERVER Sending plan...
+
+19:25:20 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:20 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:20 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:20 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:20 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:20 receipt: "From: ServerName, To: ClientName, Time: 84, 周二 十一月 24 2015, 19:25:20"
+
+19:25:20 m_totalBytes: 548
+
+19:25:20 Receipt checked.
+
+19:25:21 SERVER Start sending command ...
+
+19:25:21 Receipt: "From: ServerName, To: ClientName, Time: 85, 周二 十一月 24 2015, 19:25:21"
+
+19:25:21 SERVER "SEND COMMAND START"
+
+19:25:21 SERVER Start sending command ...
+
+19:25:21 Receipt: "From: ServerName, To: ClientName, Time: 85, 周二 十一月 24 2015, 19:25:21"
+
+19:25:21 SERVER "SEND COMMAND PAUSE"
+
+19:25:22 SERVER Sending plan...
+
+19:25:22 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:22 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:22 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:22 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:22 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:22 receipt: "From: ServerName, To: ClientName, Time: 85, 周二 十一月 24 2015, 19:25:22"
+
+19:25:22 m_totalBytes: 548
+
+19:25:22 Receipt checked.
+
+19:25:22 SERVER Start sending command ...
+
+19:25:22 Receipt: "From: ServerName, To: ClientName, Time: 86, 周二 十一月 24 2015, 19:25:22"
+
+19:25:22 SERVER "SEND COMMAND PAUSE"
+
+19:25:23 SERVER Start sending command ...
+
+19:25:23 Receipt: "From: ServerName, To: ClientName, Time: 86, 周二 十一月 24 2015, 19:25:23"
+
+19:25:23 SERVER "SEND COMMAND STOP"
+
+19:25:23 SERVER Start sending command ...
+
+19:25:23 Receipt: "From: ServerName, To: ClientName, Time: 86, 周二 十一月 24 2015, 19:25:23"
+
+19:25:23 SERVER "SEND COMMAND STOP"
+
+19:25:24 SERVER Start sending command ...
+
+19:25:24 Receipt: "From: ServerName, To: ClientName, Time: 86, 周二 十一月 24 2015, 19:25:24"
+
+19:25:24 SERVER "SEND COMMAND STOP"
+
+19:25:24 SERVER Start sending command ...
+
+19:25:24 Receipt: "From: ServerName, To: ClientName, Time: 86, 周二 十一月 24 2015, 19:25:24"
+
+19:25:24 SERVER "SEND COMMAND STOP"
+
+19:25:25 SERVER Start sending command ...
+
+19:25:25 Receipt: "From: ServerName, To: ClientName, Time: 86, 周二 十一月 24 2015, 19:25:25"
+
+19:25:25 SERVER "SEND COMMAND PAUSE"
+
+19:25:25 SERVER Start sending command ...
+
+19:25:25 Receipt: "From: ServerName, To: ClientName, Time: 86, 周二 十一月 24 2015, 19:25:25"
+
+19:25:25 SERVER "SEND COMMAND START"
+
+19:25:26 SERVER Start sending command ...
+
+19:25:26 Receipt: "From: ServerName, To: ClientName, Time: 86, 周二 十一月 24 2015, 19:25:26"
+
+19:25:26 SERVER "SEND COMMAND STOP"
+
+19:25:26 SERVER Sending plan...
+
+19:25:26 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:26 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:26 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:26 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:26 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:26 receipt: "From: ServerName, To: ClientName, Time: 86, 周二 十一月 24 2015, 19:25:26"
+
+19:25:26 m_totalBytes: 548
+
+19:25:26 Receipt checked.
+
+19:25:27 SERVER Start sending command ...
+
+19:25:27 Receipt: "From: ServerName, To: ClientName, Time: 87, 周二 十一月 24 2015, 19:25:27"
+
+19:25:27 SERVER "SEND COMMAND PAUSE"
+
+19:25:27 SERVER Sending plan...
+
+19:25:27 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:27 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:27 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:27 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:27 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:27 receipt: "From: ServerName, To: ClientName, Time: 87, 周二 十一月 24 2015, 19:25:27"
+
+19:25:27 m_totalBytes: 548
+
+19:25:28 Receipt checked.
+
+19:25:28 SERVER Start sending command ...
+
+19:25:28 Receipt: "From: ServerName, To: ClientName, Time: 88, 周二 十一月 24 2015, 19:25:28"
+
+19:25:28 SERVER "SEND COMMAND PAUSE"
+
+19:25:28 SERVER Start sending command ...
+
+19:25:28 Receipt: "From: ServerName, To: ClientName, Time: 88, 周二 十一月 24 2015, 19:25:28"
+
+19:25:28 SERVER "SEND COMMAND PAUSE"
+
+19:25:29 SERVER Start sending command ...
+
+19:25:29 Receipt: "From: ServerName, To: ClientName, Time: 88, 周二 十一月 24 2015, 19:25:29"
+
+19:25:29 SERVER "SEND COMMAND STOP"
+
+19:25:29 SERVER Start sending command ...
+
+19:25:29 Receipt: "From: ServerName, To: ClientName, Time: 88, 周二 十一月 24 2015, 19:25:29"
+
+19:25:29 SERVER "SEND COMMAND STOP"
+
+19:25:30 SERVER Start sending command ...
+
+19:25:30 Receipt: "From: ServerName, To: ClientName, Time: 88, 周二 十一月 24 2015, 19:25:30"
+
+19:25:30 SERVER "SEND COMMAND STOP"
+
+19:25:30 SERVER Start sending command ...
+
+19:25:30 Receipt: "From: ServerName, To: ClientName, Time: 88, 周二 十一月 24 2015, 19:25:30"
+
+19:25:30 SERVER "SEND COMMAND STOP"
+
+19:25:31 SERVER Start sending command ...
+
+19:25:31 Receipt: "From: ServerName, To: ClientName, Time: 88, 周二 十一月 24 2015, 19:25:31"
+
+19:25:31 SERVER "SEND COMMAND START"
+
+19:25:31 SERVER Start sending command ...
+
+19:25:31 Receipt: "From: ServerName, To: ClientName, Time: 88, 周二 十一月 24 2015, 19:25:31"
+
+19:25:31 SERVER "SEND COMMAND START"
+
+19:25:32 SERVER Start sending command ...
+
+19:25:32 Receipt: "From: ServerName, To: ClientName, Time: 88, 周二 十一月 24 2015, 19:25:32"
+
+19:25:32 SERVER "SEND COMMAND START"
+
+19:25:33 SERVER Sending plan...
+
+19:25:33 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:33 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:33 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:33 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:33 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:33 receipt: "From: ServerName, To: ClientName, Time: 88, 周二 十一月 24 2015, 19:25:33"
+
+19:25:33 m_totalBytes: 548
+
+19:25:33 Receipt checked.
+
+19:25:33 SERVER Start sending command ...
+
+19:25:33 Receipt: "From: ServerName, To: ClientName, Time: 89, 周二 十一月 24 2015, 19:25:33"
+
+19:25:33 SERVER "SEND COMMAND PAUSE"
+
+19:25:34 SERVER Start sending command ...
+
+19:25:34 Receipt: "From: ServerName, To: ClientName, Time: 89, 周二 十一月 24 2015, 19:25:34"
+
+19:25:34 SERVER "SEND COMMAND PAUSE"
+
+19:25:34 SERVER Start sending command ...
+
+19:25:34 Receipt: "From: ServerName, To: ClientName, Time: 89, 周二 十一月 24 2015, 19:25:34"
+
+19:25:34 SERVER "SEND COMMAND PAUSE"
+
+19:25:35 SERVER Start sending command ...
+
+19:25:35 Receipt: "From: ServerName, To: ClientName, Time: 89, 周二 十一月 24 2015, 19:25:35"
+
+19:25:35 SERVER "SEND COMMAND START"
+
+19:25:35 SERVER Start sending command ...
+
+19:25:35 Receipt: "From: ServerName, To: ClientName, Time: 89, 周二 十一月 24 2015, 19:25:35"
+
+19:25:35 SERVER "SEND COMMAND PAUSE"
+
+19:25:36 SERVER Start sending command ...
+
+19:25:36 Receipt: "From: ServerName, To: ClientName, Time: 89, 周二 十一月 24 2015, 19:25:36"
+
+19:25:36 SERVER "SEND COMMAND START"
+
+19:25:36 SERVER Sending plan...
+
+19:25:36 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:36 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:36 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:36 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:36 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:36 receipt: "From: ServerName, To: ClientName, Time: 89, 周二 十一月 24 2015, 19:25:36"
+
+19:25:36 m_totalBytes: 548
+
+19:25:36 Receipt checked.
+
+19:25:37 SERVER Start sending command ...
+
+19:25:37 Receipt: "From: ServerName, To: ClientName, Time: 90, 周二 十一月 24 2015, 19:25:37"
+
+19:25:37 SERVER "SEND COMMAND START"
+
+19:25:37 SERVER Start sending command ...
+
+19:25:37 Receipt: "From: ServerName, To: ClientName, Time: 90, 周二 十一月 24 2015, 19:25:37"
+
+19:25:37 SERVER "SEND COMMAND STOP"
+
+19:25:38 SERVER Start sending command ...
+
+19:25:38 Receipt: "From: ServerName, To: ClientName, Time: 90, 周二 十一月 24 2015, 19:25:38"
+
+19:25:38 SERVER "SEND COMMAND PAUSE"
+
+19:25:38 SERVER Start sending command ...
+
+19:25:38 Receipt: "From: ServerName, To: ClientName, Time: 90, 周二 十一月 24 2015, 19:25:38"
+
+19:25:38 SERVER "SEND COMMAND STOP"
+
+19:25:39 SERVER Start sending command ...
+
+19:25:39 Receipt: "From: ServerName, To: ClientName, Time: 90, 周二 十一月 24 2015, 19:25:39"
+
+19:25:39 SERVER "SEND COMMAND START"
+
+19:25:39 SERVER Start sending command ...
+
+19:25:39 Receipt: "From: ServerName, To: ClientName, Time: 90, 周二 十一月 24 2015, 19:25:39"
+
+19:25:39 SERVER "SEND COMMAND STOP"
+
+19:25:40 SERVER Start sending command ...
+
+19:25:40 Receipt: "From: ServerName, To: ClientName, Time: 90, 周二 十一月 24 2015, 19:25:40"
+
+19:25:40 SERVER "SEND COMMAND STOP"
+
+19:25:40 SERVER Start sending command ...
+
+19:25:40 Receipt: "From: ServerName, To: ClientName, Time: 90, 周二 十一月 24 2015, 19:25:40"
+
+19:25:40 SERVER "SEND COMMAND START"
+
+19:25:41 SERVER Start sending command ...
+
+19:25:41 Receipt: "From: ServerName, To: ClientName, Time: 90, 周二 十一月 24 2015, 19:25:41"
+
+19:25:41 SERVER "SEND COMMAND PAUSE"
+
+19:25:41 SERVER Sending plan...
+
+19:25:41 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:41 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:41 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:41 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:41 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:41 receipt: "From: ServerName, To: ClientName, Time: 90, 周二 十一月 24 2015, 19:25:41"
+
+19:25:41 m_totalBytes: 548
+
+19:25:41 Receipt checked.
+
+19:25:42 SERVER Sending plan...
+
+19:25:42 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:42 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:42 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:42 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:42 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:42 receipt: "From: ServerName, To: ClientName, Time: 91, 周二 十一月 24 2015, 19:25:42"
+
+19:25:42 m_totalBytes: 548
+
+19:25:42 Receipt checked.
+
+19:25:42 SERVER Sending plan...
+
+19:25:42 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:42 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:42 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:42 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:42 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:42 receipt: "From: ServerName, To: ClientName, Time: 92, 周二 十一月 24 2015, 19:25:42"
+
+19:25:42 m_totalBytes: 548
+
+19:25:42 Receipt checked.
+
+19:25:43 SERVER Start sending command ...
+
+19:25:43 Receipt: "From: ServerName, To: ClientName, Time: 93, 周二 十一月 24 2015, 19:25:43"
+
+19:25:43 SERVER "SEND COMMAND START"
+
+19:25:43 SERVER Start sending command ...
+
+19:25:43 Receipt: "From: ServerName, To: ClientName, Time: 93, 周二 十一月 24 2015, 19:25:43"
+
+19:25:43 SERVER "SEND COMMAND PAUSE"
+
+19:25:44 SERVER Sending plan...
+
+19:25:44 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:44 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:44 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:44 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:44 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:44 receipt: "From: ServerName, To: ClientName, Time: 93, 周二 十一月 24 2015, 19:25:44"
+
+19:25:44 m_totalBytes: 548
+
+19:25:44 Receipt checked.
+
+19:25:44 SERVER Start sending command ...
+
+19:25:44 Receipt: "From: ServerName, To: ClientName, Time: 94, 周二 十一月 24 2015, 19:25:44"
+
+19:25:44 SERVER "SEND COMMAND STOP"
+
+19:25:45 SERVER Start sending command ...
+
+19:25:45 Receipt: "From: ServerName, To: ClientName, Time: 94, 周二 十一月 24 2015, 19:25:45"
+
+19:25:45 SERVER "SEND COMMAND STOP"
+
+19:25:45 Check times:  6
+
+19:25:45 Receipt checked.
+
+19:25:45 SERVER Start sending command ...
+
+19:25:45 Receipt: "From: ServerName, To: ClientName, Time: 95, 周二 十一月 24 2015, 19:25:45"
+
+19:25:45 SERVER "SEND COMMAND START"
+
+19:25:46 SERVER Start sending command ...
+
+19:25:46 Receipt: "From: ServerName, To: ClientName, Time: 95, 周二 十一月 24 2015, 19:25:46"
+
+19:25:46 SERVER "SEND COMMAND STOP"
+
+19:25:46 SERVER Start sending command ...
+
+19:25:46 Receipt: "From: ServerName, To: ClientName, Time: 95, 周二 十一月 24 2015, 19:25:46"
+
+19:25:46 SERVER "SEND COMMAND START"
+
+19:25:47 SERVER Start sending command ...
+
+19:25:47 Receipt: "From: ServerName, To: ClientName, Time: 95, 周二 十一月 24 2015, 19:25:47"
+
+19:25:47 SERVER "SEND COMMAND STOP"
+
+19:25:47 SERVER Sending plan...
+
+19:25:47 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:47 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:47 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:47 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:47 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:47 receipt: "From: ServerName, To: ClientName, Time: 95, 周二 十一月 24 2015, 19:25:47"
+
+19:25:47 m_totalBytes: 548
+
+19:25:47 Receipt checked.
+
+19:25:48 SERVER Sending plan...
+
+19:25:48 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:48 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:48 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:48 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:48 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:48 receipt: "From: ServerName, To: ClientName, Time: 96, 周二 十一月 24 2015, 19:25:48"
+
+19:25:48 m_totalBytes: 548
+
+19:25:48 Receipt checked.
+
+19:25:48 SERVER Start sending command ...
+
+19:25:48 Receipt: "From: ServerName, To: ClientName, Time: 97, 周二 十一月 24 2015, 19:25:48"
+
+19:25:48 SERVER "SEND COMMAND PAUSE"
+
+19:25:49 SERVER Start sending command ...
+
+19:25:49 Receipt: "From: ServerName, To: ClientName, Time: 97, 周二 十一月 24 2015, 19:25:49"
+
+19:25:49 SERVER "SEND COMMAND PAUSE"
+
+19:25:49 SERVER Start sending command ...
+
+19:25:49 Receipt: "From: ServerName, To: ClientName, Time: 97, 周二 十一月 24 2015, 19:25:49"
+
+19:25:49 SERVER "SEND COMMAND PAUSE"
+
+19:25:50 SERVER Sending plan...
+
+19:25:50 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:50 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:50 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:50 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:50 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:50 receipt: "From: ServerName, To: ClientName, Time: 97, 周二 十一月 24 2015, 19:25:50"
+
+19:25:50 m_totalBytes: 548
+
+19:25:50 Receipt checked.
+
+19:25:50 SERVER Start sending command ...
+
+19:25:50 Receipt: "From: ServerName, To: ClientName, Time: 98, 周二 十一月 24 2015, 19:25:50"
+
+19:25:50 SERVER "SEND COMMAND STOP"
+
+19:25:51 SERVER Sending plan...
+
+19:25:51 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:51 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:51 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:51 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:51 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:51 receipt: "From: ServerName, To: ClientName, Time: 98, 周二 十一月 24 2015, 19:25:51"
+
+19:25:51 m_totalBytes: 548
+
+19:25:51 Receipt checked.
+
+19:25:51 SERVER Start sending command ...
+
+19:25:51 Receipt: "From: ServerName, To: ClientName, Time: 99, 周二 十一月 24 2015, 19:25:51"
+
+19:25:51 SERVER "SEND COMMAND START"
+
+19:25:52 SERVER Start sending command ...
+
+19:25:52 Receipt: "From: ServerName, To: ClientName, Time: 99, 周二 十一月 24 2015, 19:25:52"
+
+19:25:52 SERVER "SEND COMMAND START"
+
+19:25:52 SERVER Sending plan...
+
+19:25:52 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:52 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:52 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:52 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:52 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:52 receipt: "From: ServerName, To: ClientName, Time: 99, 周二 十一月 24 2015, 19:25:52"
+
+19:25:52 m_totalBytes: 548
+
+19:25:52 Receipt checked.
+
+19:25:53 SERVER Sending plan...
+
+19:25:53 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:53 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:53 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:53 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:53 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:53 receipt: "From: ServerName, To: ClientName, Time: 100, 周二 十一月 24 2015, 19:25:53"
+
+19:25:53 m_totalBytes: 550
+
+19:25:53 Receipt checked.
+
+19:25:53 SERVER Start sending command ...
+
+19:25:53 Receipt: "From: ServerName, To: ClientName, Time: 101, 周二 十一月 24 2015, 19:25:53"
+
+19:25:53 SERVER "SEND COMMAND PAUSE"
+
+19:25:54 SERVER Sending plan...
+
+19:25:54 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:54 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:54 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:54 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:54 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:54 receipt: "From: ServerName, To: ClientName, Time: 101, 周二 十一月 24 2015, 19:25:54"
+
+19:25:54 m_totalBytes: 550
+
+19:25:54 Receipt checked.
+
+19:25:54 SERVER Start sending command ...
+
+19:25:54 Receipt: "From: ServerName, To: ClientName, Time: 102, 周二 十一月 24 2015, 19:25:54"
+
+19:25:54 SERVER "SEND COMMAND STOP"
+
+19:25:55 SERVER Start sending command ...
+
+19:25:55 Receipt: "From: ServerName, To: ClientName, Time: 102, 周二 十一月 24 2015, 19:25:55"
+
+19:25:55 SERVER "SEND COMMAND STOP"
+
+19:25:55 SERVER Start sending command ...
+
+19:25:55 Receipt: "From: ServerName, To: ClientName, Time: 102, 周二 十一月 24 2015, 19:25:55"
+
+19:25:55 SERVER "SEND COMMAND STOP"
+
+19:25:56 SERVER Start sending command ...
+
+19:25:56 Receipt: "From: ServerName, To: ClientName, Time: 102, 周二 十一月 24 2015, 19:25:56"
+
+19:25:56 SERVER "SEND COMMAND START"
+
+19:25:56 SERVER Start sending command ...
+
+19:25:56 Receipt: "From: ServerName, To: ClientName, Time: 102, 周二 十一月 24 2015, 19:25:56"
+
+19:25:56 SERVER "SEND COMMAND START"
+
+19:25:57 SERVER Start sending command ...
+
+19:25:57 Receipt: "From: ServerName, To: ClientName, Time: 102, 周二 十一月 24 2015, 19:25:57"
+
+19:25:57 SERVER "SEND COMMAND START"
+
+19:25:57 SERVER Sending plan...
+
+19:25:57 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:57 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:57 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:57 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:57 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:57 receipt: "From: ServerName, To: ClientName, Time: 102, 周二 十一月 24 2015, 19:25:57"
+
+19:25:57 m_totalBytes: 550
+
+19:25:57 Receipt checked.
+
+19:25:58 SERVER Start sending command ...
+
+19:25:58 Receipt: "From: ServerName, To: ClientName, Time: 103, 周二 十一月 24 2015, 19:25:58"
+
+19:25:58 SERVER "SEND COMMAND STOP"
+
+19:25:58 SERVER Sending plan...
+
+19:25:58 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:58 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:58 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:58 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:58 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:58 receipt: "From: ServerName, To: ClientName, Time: 103, 周二 十一月 24 2015, 19:25:58"
+
+19:25:58 m_totalBytes: 550
+
+19:25:59 Receipt checked.
+
+19:25:59 SERVER Start sending command ...
+
+19:25:59 Receipt: "From: ServerName, To: ClientName, Time: 104, 周二 十一月 24 2015, 19:25:59"
+
+19:25:59 SERVER "SEND COMMAND STOP"
+
+19:25:59 SERVER Sending plan...
+
+19:25:59 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:25:59 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:25:59 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:25:59 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:25:59 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:25:59 receipt: "From: ServerName, To: ClientName, Time: 104, 周二 十一月 24 2015, 19:25:59"
+
+19:25:59 m_totalBytes: 550
+
+19:26:00 Receipt checked.
+
+19:26:00 SERVER Start sending command ...
+
+19:26:00 Receipt: "From: ServerName, To: ClientName, Time: 105, 周二 十一月 24 2015, 19:26:00"
+
+19:26:00 SERVER "SEND COMMAND STOP"
+
+19:26:00 SERVER Sending plan...
+
+19:26:00 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:00 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:00 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:00 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:00 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:00 receipt: "From: ServerName, To: ClientName, Time: 105, 周二 十一月 24 2015, 19:26:00"
+
+19:26:00 m_totalBytes: 550
+
+19:26:01 Receipt checked.
+
+19:26:01 SERVER Start sending command ...
+
+19:26:01 Receipt: "From: ServerName, To: ClientName, Time: 106, 周二 十一月 24 2015, 19:26:01"
+
+19:26:01 SERVER "SEND COMMAND START"
+
+19:26:01 SERVER Start sending command ...
+
+19:26:01 Receipt: "From: ServerName, To: ClientName, Time: 106, 周二 十一月 24 2015, 19:26:01"
+
+19:26:01 SERVER "SEND COMMAND PAUSE"
+
+19:26:02 SERVER Sending plan...
+
+19:26:02 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:02 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:02 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:02 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:02 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:02 receipt: "From: ServerName, To: ClientName, Time: 106, 周二 十一月 24 2015, 19:26:02"
+
+19:26:02 m_totalBytes: 550
+
+19:26:02 Receipt checked.
+
+19:26:02 SERVER Start sending command ...
+
+19:26:02 Receipt: "From: ServerName, To: ClientName, Time: 107, 周二 十一月 24 2015, 19:26:02"
+
+19:26:02 SERVER "SEND COMMAND PAUSE"
+
+19:26:03 SERVER Start sending command ...
+
+19:26:03 Receipt: "From: ServerName, To: ClientName, Time: 107, 周二 十一月 24 2015, 19:26:03"
+
+19:26:03 SERVER "SEND COMMAND START"
+
+19:26:03 SERVER Start sending command ...
+
+19:26:03 Receipt: "From: ServerName, To: ClientName, Time: 107, 周二 十一月 24 2015, 19:26:03"
+
+19:26:03 SERVER "SEND COMMAND STOP"
+
+19:26:04 SERVER Start sending command ...
+
+19:26:04 Receipt: "From: ServerName, To: ClientName, Time: 107, 周二 十一月 24 2015, 19:26:04"
+
+19:26:04 SERVER "SEND COMMAND STOP"
+
+19:26:04 SERVER Start sending command ...
+
+19:26:04 Receipt: "From: ServerName, To: ClientName, Time: 107, 周二 十一月 24 2015, 19:26:04"
+
+19:26:04 SERVER "SEND COMMAND START"
+
+19:26:05 SERVER Start sending command ...
+
+19:26:05 Receipt: "From: ServerName, To: ClientName, Time: 107, 周二 十一月 24 2015, 19:26:05"
+
+19:26:05 SERVER "SEND COMMAND PAUSE"
+
+19:26:05 SERVER Start sending command ...
+
+19:26:05 Receipt: "From: ServerName, To: ClientName, Time: 107, 周二 十一月 24 2015, 19:26:05"
+
+19:26:05 SERVER "SEND COMMAND START"
+
+19:26:06 SERVER Start sending command ...
+
+19:26:06 Receipt: "From: ServerName, To: ClientName, Time: 107, 周二 十一月 24 2015, 19:26:06"
+
+19:26:06 SERVER "SEND COMMAND START"
+
+19:26:06 SERVER Sending plan...
+
+19:26:06 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:06 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:06 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:06 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:06 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:06 receipt: "From: ServerName, To: ClientName, Time: 107, 周二 十一月 24 2015, 19:26:06"
+
+19:26:06 m_totalBytes: 550
+
+19:26:07 Receipt checked.
+
+19:26:07 SERVER Start sending command ...
+
+19:26:07 Receipt: "From: ServerName, To: ClientName, Time: 108, 周二 十一月 24 2015, 19:26:07"
+
+19:26:07 SERVER "SEND COMMAND PAUSE"
+
+19:26:07 SERVER Start sending command ...
+
+19:26:07 Receipt: "From: ServerName, To: ClientName, Time: 108, 周二 十一月 24 2015, 19:26:07"
+
+19:26:07 SERVER "SEND COMMAND PAUSE"
+
+19:26:08 SERVER Start sending command ...
+
+19:26:08 Receipt: "From: ServerName, To: ClientName, Time: 108, 周二 十一月 24 2015, 19:26:08"
+
+19:26:08 SERVER "SEND COMMAND START"
+
+19:26:09 SERVER Start sending command ...
+
+19:26:09 Receipt: "From: ServerName, To: ClientName, Time: 108, 周二 十一月 24 2015, 19:26:09"
+
+19:26:09 SERVER "SEND COMMAND START"
+
+19:26:09 SERVER Sending plan...
+
+19:26:09 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:09 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:09 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:09 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:09 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:09 receipt: "From: ServerName, To: ClientName, Time: 108, 周二 十一月 24 2015, 19:26:09"
+
+19:26:09 m_totalBytes: 550
+
+19:26:09 Receipt checked.
+
+19:26:10 SERVER Sending plan...
+
+19:26:10 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:10 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:10 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:10 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:10 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:10 receipt: "From: ServerName, To: ClientName, Time: 109, 周二 十一月 24 2015, 19:26:10"
+
+19:26:10 m_totalBytes: 550
+
+19:26:10 Receipt checked.
+
+19:26:10 SERVER Start sending command ...
+
+19:26:10 Receipt: "From: ServerName, To: ClientName, Time: 110, 周二 十一月 24 2015, 19:26:10"
+
+19:26:10 SERVER "SEND COMMAND PAUSE"
+
+19:26:11 SERVER Start sending command ...
+
+19:26:11 Receipt: "From: ServerName, To: ClientName, Time: 110, 周二 十一月 24 2015, 19:26:11"
+
+19:26:11 SERVER "SEND COMMAND START"
+
+19:26:11 SERVER Start sending command ...
+
+19:26:11 Receipt: "From: ServerName, To: ClientName, Time: 110, 周二 十一月 24 2015, 19:26:11"
+
+19:26:11 SERVER "SEND COMMAND STOP"
+
+19:26:12 SERVER Start sending command ...
+
+19:26:12 Receipt: "From: ServerName, To: ClientName, Time: 110, 周二 十一月 24 2015, 19:26:12"
+
+19:26:12 SERVER "SEND COMMAND STOP"
+
+19:26:12 SERVER Start sending command ...
+
+19:26:12 Receipt: "From: ServerName, To: ClientName, Time: 110, 周二 十一月 24 2015, 19:26:12"
+
+19:26:12 SERVER "SEND COMMAND START"
+
+19:26:13 SERVER Start sending command ...
+
+19:26:13 Receipt: "From: ServerName, To: ClientName, Time: 110, 周二 十一月 24 2015, 19:26:13"
+
+19:26:13 SERVER "SEND COMMAND STOP"
+
+19:26:13 SERVER Start sending command ...
+
+19:26:13 Receipt: "From: ServerName, To: ClientName, Time: 110, 周二 十一月 24 2015, 19:26:13"
+
+19:26:13 SERVER "SEND COMMAND START"
+
+19:26:14 SERVER Start sending command ...
+
+19:26:14 Receipt: "From: ServerName, To: ClientName, Time: 110, 周二 十一月 24 2015, 19:26:14"
+
+19:26:14 SERVER "SEND COMMAND STOP"
+
+19:26:14 SERVER Start sending command ...
+
+19:26:14 Receipt: "From: ServerName, To: ClientName, Time: 110, 周二 十一月 24 2015, 19:26:14"
+
+19:26:14 SERVER "SEND COMMAND START"
+
+19:26:15 SERVER Sending plan...
+
+19:26:15 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:15 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:15 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:15 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:15 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:15 receipt: "From: ServerName, To: ClientName, Time: 110, 周二 十一月 24 2015, 19:26:15"
+
+19:26:15 m_totalBytes: 550
+
+19:26:15 Receipt checked.
+
+19:26:15 Check times:  7
+
+19:26:15 Receipt checked.
+
+19:26:15 SERVER Sending plan...
+
+19:26:15 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:15 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:15 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:15 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:15 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:15 receipt: "From: ServerName, To: ClientName, Time: 112, 周二 十一月 24 2015, 19:26:15"
+
+19:26:15 m_totalBytes: 550
+
+19:26:15 Receipt checked.
+
+19:26:16 SERVER Start sending command ...
+
+19:26:16 Receipt: "From: ServerName, To: ClientName, Time: 113, 周二 十一月 24 2015, 19:26:16"
+
+19:26:16 SERVER "SEND COMMAND START"
+
+19:26:16 SERVER Start sending command ...
+
+19:26:16 Receipt: "From: ServerName, To: ClientName, Time: 113, 周二 十一月 24 2015, 19:26:16"
+
+19:26:16 SERVER "SEND COMMAND PAUSE"
+
+19:26:17 SERVER Start sending command ...
+
+19:26:17 Receipt: "From: ServerName, To: ClientName, Time: 113, 周二 十一月 24 2015, 19:26:17"
+
+19:26:17 SERVER "SEND COMMAND STOP"
+
+19:26:17 SERVER Start sending command ...
+
+19:26:17 Receipt: "From: ServerName, To: ClientName, Time: 113, 周二 十一月 24 2015, 19:26:17"
+
+19:26:17 SERVER "SEND COMMAND PAUSE"
+
+19:26:18 SERVER Start sending command ...
+
+19:26:18 Receipt: "From: ServerName, To: ClientName, Time: 113, 周二 十一月 24 2015, 19:26:18"
+
+19:26:18 SERVER "SEND COMMAND PAUSE"
+
+19:26:18 SERVER Start sending command ...
+
+19:26:18 Receipt: "From: ServerName, To: ClientName, Time: 113, 周二 十一月 24 2015, 19:26:18"
+
+19:26:18 SERVER "SEND COMMAND STOP"
+
+19:26:19 SERVER Start sending command ...
+
+19:26:19 Receipt: "From: ServerName, To: ClientName, Time: 113, 周二 十一月 24 2015, 19:26:19"
+
+19:26:19 SERVER "SEND COMMAND PAUSE"
+
+19:26:19 SERVER Start sending command ...
+
+19:26:19 Receipt: "From: ServerName, To: ClientName, Time: 113, 周二 十一月 24 2015, 19:26:19"
+
+19:26:19 SERVER "SEND COMMAND START"
+
+19:26:20 SERVER Start sending command ...
+
+19:26:20 Receipt: "From: ServerName, To: ClientName, Time: 113, 周二 十一月 24 2015, 19:26:20"
+
+19:26:20 SERVER "SEND COMMAND START"
+
+19:26:20 SERVER Start sending command ...
+
+19:26:20 Receipt: "From: ServerName, To: ClientName, Time: 113, 周二 十一月 24 2015, 19:26:20"
+
+19:26:20 SERVER "SEND COMMAND START"
+
+19:26:21 SERVER Start sending command ...
+
+19:26:21 Receipt: "From: ServerName, To: ClientName, Time: 113, 周二 十一月 24 2015, 19:26:21"
+
+19:26:21 SERVER "SEND COMMAND STOP"
+
+19:26:21 SERVER Sending plan...
+
+19:26:21 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:21 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:21 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:21 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:21 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:21 receipt: "From: ServerName, To: ClientName, Time: 113, 周二 十一月 24 2015, 19:26:21"
+
+19:26:21 m_totalBytes: 550
+
+19:26:21 Receipt checked.
+
+19:26:22 SERVER Start sending command ...
+
+19:26:22 Receipt: "From: ServerName, To: ClientName, Time: 114, 周二 十一月 24 2015, 19:26:22"
+
+19:26:22 SERVER "SEND COMMAND START"
+
+19:26:22 SERVER Start sending command ...
+
+19:26:22 Receipt: "From: ServerName, To: ClientName, Time: 114, 周二 十一月 24 2015, 19:26:22"
+
+19:26:22 SERVER "SEND COMMAND PAUSE"
+
+19:26:23 SERVER Sending plan...
+
+19:26:23 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:23 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:23 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:23 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:23 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:23 receipt: "From: ServerName, To: ClientName, Time: 114, 周二 十一月 24 2015, 19:26:23"
+
+19:26:23 m_totalBytes: 550
+
+19:26:23 Receipt checked.
+
+19:26:23 SERVER Start sending command ...
+
+19:26:23 Receipt: "From: ServerName, To: ClientName, Time: 115, 周二 十一月 24 2015, 19:26:23"
+
+19:26:23 SERVER "SEND COMMAND STOP"
+
+19:26:24 SERVER Start sending command ...
+
+19:26:24 Receipt: "From: ServerName, To: ClientName, Time: 115, 周二 十一月 24 2015, 19:26:24"
+
+19:26:24 SERVER "SEND COMMAND PAUSE"
+
+19:26:24 SERVER Start sending command ...
+
+19:26:24 Receipt: "From: ServerName, To: ClientName, Time: 115, 周二 十一月 24 2015, 19:26:24"
+
+19:26:24 SERVER "SEND COMMAND STOP"
+
+19:26:25 SERVER Start sending command ...
+
+19:26:25 Receipt: "From: ServerName, To: ClientName, Time: 115, 周二 十一月 24 2015, 19:26:25"
+
+19:26:25 SERVER "SEND COMMAND START"
+
+19:26:25 SERVER Start sending command ...
+
+19:26:25 Receipt: "From: ServerName, To: ClientName, Time: 115, 周二 十一月 24 2015, 19:26:25"
+
+19:26:25 SERVER "SEND COMMAND START"
+
+19:26:26 SERVER Start sending command ...
+
+19:26:26 Receipt: "From: ServerName, To: ClientName, Time: 115, 周二 十一月 24 2015, 19:26:26"
+
+19:26:26 SERVER "SEND COMMAND PAUSE"
+
+19:26:26 SERVER Sending plan...
+
+19:26:26 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:26 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:26 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:26 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:26 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:26 receipt: "From: ServerName, To: ClientName, Time: 115, 周二 十一月 24 2015, 19:26:26"
+
+19:26:26 m_totalBytes: 550
+
+19:26:26 Receipt checked.
+
+19:26:27 SERVER Start sending command ...
+
+19:26:27 Receipt: "From: ServerName, To: ClientName, Time: 116, 周二 十一月 24 2015, 19:26:27"
+
+19:26:27 SERVER "SEND COMMAND STOP"
+
+19:26:27 SERVER Start sending command ...
+
+19:26:27 Receipt: "From: ServerName, To: ClientName, Time: 116, 周二 十一月 24 2015, 19:26:27"
+
+19:26:27 SERVER "SEND COMMAND PAUSE"
+
+19:26:28 SERVER Sending plan...
+
+19:26:28 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:28 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:28 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:28 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:28 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:28 receipt: "From: ServerName, To: ClientName, Time: 116, 周二 十一月 24 2015, 19:26:28"
+
+19:26:28 m_totalBytes: 550
+
+19:26:28 Receipt checked.
+
+19:26:28 SERVER Start sending command ...
+
+19:26:28 Receipt: "From: ServerName, To: ClientName, Time: 117, 周二 十一月 24 2015, 19:26:28"
+
+19:26:28 SERVER "SEND COMMAND STOP"
+
+19:26:29 SERVER Start sending command ...
+
+19:26:29 Receipt: "From: ServerName, To: ClientName, Time: 117, 周二 十一月 24 2015, 19:26:29"
+
+19:26:29 SERVER "SEND COMMAND PAUSE"
+
+19:26:29 SERVER Start sending command ...
+
+19:26:29 Receipt: "From: ServerName, To: ClientName, Time: 117, 周二 十一月 24 2015, 19:26:29"
+
+19:26:29 SERVER "SEND COMMAND STOP"
+
+19:26:30 SERVER Start sending command ...
+
+19:26:30 Receipt: "From: ServerName, To: ClientName, Time: 117, 周二 十一月 24 2015, 19:26:30"
+
+19:26:30 SERVER "SEND COMMAND STOP"
+
+19:26:30 SERVER Start sending command ...
+
+19:26:30 Receipt: "From: ServerName, To: ClientName, Time: 117, 周二 十一月 24 2015, 19:26:30"
+
+19:26:30 SERVER "SEND COMMAND START"
+
+19:26:31 SERVER Start sending command ...
+
+19:26:31 Receipt: "From: ServerName, To: ClientName, Time: 117, 周二 十一月 24 2015, 19:26:31"
+
+19:26:31 SERVER "SEND COMMAND PAUSE"
+
+19:26:31 SERVER Start sending command ...
+
+19:26:31 Receipt: "From: ServerName, To: ClientName, Time: 117, 周二 十一月 24 2015, 19:26:31"
+
+19:26:31 SERVER "SEND COMMAND PAUSE"
+
+19:26:32 SERVER Start sending command ...
+
+19:26:32 Receipt: "From: ServerName, To: ClientName, Time: 117, 周二 十一月 24 2015, 19:26:32"
+
+19:26:32 SERVER "SEND COMMAND STOP"
+
+19:26:32 SERVER Start sending command ...
+
+19:26:32 Receipt: "From: ServerName, To: ClientName, Time: 117, 周二 十一月 24 2015, 19:26:32"
+
+19:26:32 SERVER "SEND COMMAND PAUSE"
+
+19:26:33 SERVER Start sending command ...
+
+19:26:33 Receipt: "From: ServerName, To: ClientName, Time: 117, 周二 十一月 24 2015, 19:26:33"
+
+19:26:33 SERVER "SEND COMMAND START"
+
+19:26:33 SERVER Start sending command ...
+
+19:26:33 Receipt: "From: ServerName, To: ClientName, Time: 117, 周二 十一月 24 2015, 19:26:33"
+
+19:26:33 SERVER "SEND COMMAND PAUSE"
+
+19:26:34 SERVER Sending plan...
+
+19:26:34 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:34 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:34 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:34 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:34 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:34 receipt: "From: ServerName, To: ClientName, Time: 117, 周二 十一月 24 2015, 19:26:34"
+
+19:26:34 m_totalBytes: 550
+
+19:26:34 Receipt checked.
+
+19:26:34 SERVER Start sending command ...
+
+19:26:34 Receipt: "From: ServerName, To: ClientName, Time: 118, 周二 十一月 24 2015, 19:26:34"
+
+19:26:34 SERVER "SEND COMMAND PAUSE"
+
+19:26:35 SERVER Start sending command ...
+
+19:26:35 Receipt: "From: ServerName, To: ClientName, Time: 118, 周二 十一月 24 2015, 19:26:35"
+
+19:26:35 SERVER "SEND COMMAND STOP"
+
+19:26:35 SERVER Start sending command ...
+
+19:26:35 Receipt: "From: ServerName, To: ClientName, Time: 118, 周二 十一月 24 2015, 19:26:35"
+
+19:26:35 SERVER "SEND COMMAND STOP"
+
+19:26:36 SERVER Start sending command ...
+
+19:26:36 Receipt: "From: ServerName, To: ClientName, Time: 118, 周二 十一月 24 2015, 19:26:36"
+
+19:26:36 SERVER "SEND COMMAND PAUSE"
+
+19:26:36 SERVER Start sending command ...
+
+19:26:36 Receipt: "From: ServerName, To: ClientName, Time: 118, 周二 十一月 24 2015, 19:26:36"
+
+19:26:36 SERVER "SEND COMMAND START"
+
+19:26:37 SERVER Start sending command ...
+
+19:26:37 Receipt: "From: ServerName, To: ClientName, Time: 118, 周二 十一月 24 2015, 19:26:37"
+
+19:26:37 SERVER "SEND COMMAND STOP"
+
+19:26:37 SERVER Start sending command ...
+
+19:26:37 Receipt: "From: ServerName, To: ClientName, Time: 118, 周二 十一月 24 2015, 19:26:37"
+
+19:26:37 SERVER "SEND COMMAND START"
+
+19:26:38 SERVER Start sending command ...
+
+19:26:38 Receipt: "From: ServerName, To: ClientName, Time: 118, 周二 十一月 24 2015, 19:26:38"
+
+19:26:38 SERVER "SEND COMMAND START"
+
+19:26:38 Warning: SERVER Socket block !
+
+19:26:39 SERVER Start sending command ...
+
+19:26:39 Receipt: "From: ServerName, To: ClientName, Time: 118, 周二 十一月 24 2015, 19:26:39"
+
+19:26:39 SERVER "SEND COMMAND STOP"
+
+19:26:39 SERVER Start sending command ...
+
+19:26:39 Receipt: "From: ServerName, To: ClientName, Time: 118, 周二 十一月 24 2015, 19:26:39"
+
+19:26:39 SERVER "SEND COMMAND START"
+
+19:26:40 SERVER Start sending command ...
+
+19:26:40 Receipt: "From: ServerName, To: ClientName, Time: 118, 周二 十一月 24 2015, 19:26:40"
+
+19:26:40 SERVER "SEND COMMAND START"
+
+19:26:40 SERVER Start sending command ...
+
+19:26:40 Receipt: "From: ServerName, To: ClientName, Time: 118, 周二 十一月 24 2015, 19:26:40"
+
+19:26:40 SERVER "SEND COMMAND PAUSE"
+
+19:26:41 SERVER Sending plan...
+
+19:26:41 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:41 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:41 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:41 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:41 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:41 receipt: "From: ServerName, To: ClientName, Time: 118, 周二 十一月 24 2015, 19:26:41"
+
+19:26:41 m_totalBytes: 550
+
+19:26:41 Receipt checked.
+
+19:26:41 SERVER Sending plan...
+
+19:26:41 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:41 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:41 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:41 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:41 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:41 receipt: "From: ServerName, To: ClientName, Time: 119, 周二 十一月 24 2015, 19:26:41"
+
+19:26:41 m_totalBytes: 550
+
+19:26:42 Receipt checked.
+
+19:26:42 SERVER Sending plan...
+
+19:26:42 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:42 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:42 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:42 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:42 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:42 receipt: "From: ServerName, To: ClientName, Time: 120, 周二 十一月 24 2015, 19:26:42"
+
+19:26:42 m_totalBytes: 550
+
+19:26:42 Receipt checked.
+
+19:26:42 SERVER Start sending command ...
+
+19:26:42 Receipt: "From: ServerName, To: ClientName, Time: 121, 周二 十一月 24 2015, 19:26:42"
+
+19:26:42 SERVER "SEND COMMAND PAUSE"
+
+19:26:43 SERVER Start sending command ...
+
+19:26:43 Receipt: "From: ServerName, To: ClientName, Time: 121, 周二 十一月 24 2015, 19:26:43"
+
+19:26:43 SERVER "SEND COMMAND PAUSE"
+
+19:26:44 SERVER Start sending command ...
+
+19:26:44 Receipt: "From: ServerName, To: ClientName, Time: 121, 周二 十一月 24 2015, 19:26:44"
+
+19:26:44 SERVER "SEND COMMAND PAUSE"
+
+19:26:44 SERVER Start sending command ...
+
+19:26:44 Receipt: "From: ServerName, To: ClientName, Time: 121, 周二 十一月 24 2015, 19:26:44"
+
+19:26:44 SERVER "SEND COMMAND START"
+
+19:26:45 SERVER Start sending command ...
+
+19:26:45 Receipt: "From: ServerName, To: ClientName, Time: 121, 周二 十一月 24 2015, 19:26:45"
+
+19:26:45 SERVER "SEND COMMAND START"
+
+19:26:45 Check times:  8
+
+19:26:45 Receipt checked.
+
+19:26:45 SERVER Start sending command ...
+
+19:26:45 Receipt: "From: ServerName, To: ClientName, Time: 122, 周二 十一月 24 2015, 19:26:45"
+
+19:26:45 SERVER "SEND COMMAND START"
+
+19:26:46 SERVER Start sending command ...
+
+19:26:46 Receipt: "From: ServerName, To: ClientName, Time: 122, 周二 十一月 24 2015, 19:26:46"
+
+19:26:46 SERVER "SEND COMMAND STOP"
+
+19:26:46 SERVER Start sending command ...
+
+19:26:46 Receipt: "From: ServerName, To: ClientName, Time: 122, 周二 十一月 24 2015, 19:26:46"
+
+19:26:46 SERVER "SEND COMMAND PAUSE"
+
+19:26:47 SERVER Start sending command ...
+
+19:26:47 Receipt: "From: ServerName, To: ClientName, Time: 122, 周二 十一月 24 2015, 19:26:47"
+
+19:26:47 SERVER "SEND COMMAND STOP"
+
+19:26:47 SERVER Start sending command ...
+
+19:26:47 Receipt: "From: ServerName, To: ClientName, Time: 122, 周二 十一月 24 2015, 19:26:47"
+
+19:26:47 SERVER "SEND COMMAND PAUSE"
+
+19:26:48 SERVER Sending plan...
+
+19:26:48 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:48 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:48 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:48 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:48 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:48 receipt: "From: ServerName, To: ClientName, Time: 122, 周二 十一月 24 2015, 19:26:48"
+
+19:26:48 m_totalBytes: 550
+
+19:26:48 Receipt checked.
+
+19:26:48 SERVER Start sending command ...
+
+19:26:48 Receipt: "From: ServerName, To: ClientName, Time: 123, 周二 十一月 24 2015, 19:26:48"
+
+19:26:48 SERVER "SEND COMMAND PAUSE"
+
+19:26:49 SERVER Start sending command ...
+
+19:26:49 Receipt: "From: ServerName, To: ClientName, Time: 123, 周二 十一月 24 2015, 19:26:49"
+
+19:26:49 SERVER "SEND COMMAND PAUSE"
+
+19:26:49 SERVER Start sending command ...
+
+19:26:49 Receipt: "From: ServerName, To: ClientName, Time: 123, 周二 十一月 24 2015, 19:26:49"
+
+19:26:49 SERVER "SEND COMMAND PAUSE"
+
+19:26:50 SERVER Start sending command ...
+
+19:26:50 Receipt: "From: ServerName, To: ClientName, Time: 123, 周二 十一月 24 2015, 19:26:50"
+
+19:26:50 SERVER "SEND COMMAND PAUSE"
+
+19:26:50 SERVER Start sending command ...
+
+19:26:50 Receipt: "From: ServerName, To: ClientName, Time: 123, 周二 十一月 24 2015, 19:26:50"
+
+19:26:50 SERVER "SEND COMMAND STOP"
+
+19:26:51 SERVER Start sending command ...
+
+19:26:51 Receipt: "From: ServerName, To: ClientName, Time: 123, 周二 十一月 24 2015, 19:26:51"
+
+19:26:51 SERVER "SEND COMMAND START"
+
+19:26:51 SERVER Start sending command ...
+
+19:26:51 Receipt: "From: ServerName, To: ClientName, Time: 123, 周二 十一月 24 2015, 19:26:51"
+
+19:26:51 SERVER "SEND COMMAND START"
+
+19:26:52 SERVER Start sending command ...
+
+19:26:52 Receipt: "From: ServerName, To: ClientName, Time: 123, 周二 十一月 24 2015, 19:26:52"
+
+19:26:52 SERVER "SEND COMMAND START"
+
+19:26:52 SERVER Start sending command ...
+
+19:26:52 Receipt: "From: ServerName, To: ClientName, Time: 123, 周二 十一月 24 2015, 19:26:52"
+
+19:26:52 SERVER "SEND COMMAND START"
+
+19:26:53 SERVER Start sending command ...
+
+19:26:53 Receipt: "From: ServerName, To: ClientName, Time: 123, 周二 十一月 24 2015, 19:26:53"
+
+19:26:53 SERVER "SEND COMMAND START"
+
+19:26:53 SERVER Sending plan...
+
+19:26:53 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:53 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:53 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:53 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:53 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:53 receipt: "From: ServerName, To: ClientName, Time: 123, 周二 十一月 24 2015, 19:26:53"
+
+19:26:53 m_totalBytes: 550
+
+19:26:53 Receipt checked.
+
+19:26:54 SERVER Start sending command ...
+
+19:26:54 Receipt: "From: ServerName, To: ClientName, Time: 124, 周二 十一月 24 2015, 19:26:54"
+
+19:26:54 SERVER "SEND COMMAND PAUSE"
+
+19:26:54 SERVER Start sending command ...
+
+19:26:54 Receipt: "From: ServerName, To: ClientName, Time: 124, 周二 十一月 24 2015, 19:26:54"
+
+19:26:54 SERVER "SEND COMMAND PAUSE"
+
+19:26:55 SERVER Start sending command ...
+
+19:26:55 Receipt: "From: ServerName, To: ClientName, Time: 124, 周二 十一月 24 2015, 19:26:55"
+
+19:26:55 SERVER "SEND COMMAND START"
+
+19:26:55 SERVER Start sending command ...
+
+19:26:55 Receipt: "From: ServerName, To: ClientName, Time: 124, 周二 十一月 24 2015, 19:26:55"
+
+19:26:55 SERVER "SEND COMMAND STOP"
+
+19:26:56 SERVER Start sending command ...
+
+19:26:56 Receipt: "From: ServerName, To: ClientName, Time: 124, 周二 十一月 24 2015, 19:26:56"
+
+19:26:56 SERVER "SEND COMMAND PAUSE"
+
+19:26:56 SERVER Start sending command ...
+
+19:26:56 Receipt: "From: ServerName, To: ClientName, Time: 124, 周二 十一月 24 2015, 19:26:56"
+
+19:26:56 SERVER "SEND COMMAND STOP"
+
+19:26:57 SERVER Sending plan...
+
+19:26:57 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:57 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:57 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:57 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:57 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:57 receipt: "From: ServerName, To: ClientName, Time: 124, 周二 十一月 24 2015, 19:26:57"
+
+19:26:57 m_totalBytes: 550
+
+19:26:57 Receipt checked.
+
+19:26:57 SERVER Start sending command ...
+
+19:26:57 Receipt: "From: ServerName, To: ClientName, Time: 125, 周二 十一月 24 2015, 19:26:57"
+
+19:26:57 SERVER "SEND COMMAND START"
+
+19:26:58 SERVER Start sending command ...
+
+19:26:58 Receipt: "From: ServerName, To: ClientName, Time: 125, 周二 十一月 24 2015, 19:26:58"
+
+19:26:58 SERVER "SEND COMMAND STOP"
+
+19:26:58 SERVER Sending plan...
+
+19:26:58 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:58 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:58 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:58 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:58 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:58 receipt: "From: ServerName, To: ClientName, Time: 125, 周二 十一月 24 2015, 19:26:58"
+
+19:26:58 m_totalBytes: 550
+
+19:26:58 Receipt checked.
+
+19:26:59 SERVER Start sending command ...
+
+19:26:59 Receipt: "From: ServerName, To: ClientName, Time: 126, 周二 十一月 24 2015, 19:26:59"
+
+19:26:59 SERVER "SEND COMMAND STOP"
+
+19:26:59 SERVER Sending plan...
+
+19:26:59 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+19:26:59 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+19:26:59 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+19:26:59 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+19:26:59 Volt: 5 Total time: 10 Period: 500 Duty cycle: 50 Cooling time: 5
+
+19:26:59 receipt: "From: ServerName, To: ClientName, Time: 126, 周二 十一月 24 2015, 19:26:59"
+
+19:26:59 m_totalBytes: 550
+
+19:26:59 Receipt checked.
+
+19:27:00 SERVER Start sending command ...
+
+19:27:00 Receipt: "From: ServerName, To: ClientName, Time: 127, 周二 十一月 24 2015, 19:27:00"
+
+19:27:00 SERVER "SEND COMMAND STOP"
+
+19:27:15 Check times:  9
+
+19:27:15 Receipt checked.
+
+19:27:45 Check times:  10
+
+19:27:45 Receipt checked.
+
