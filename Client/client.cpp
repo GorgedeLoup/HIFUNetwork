@@ -5,7 +5,7 @@
 
 Q_LOGGING_CATEGORY(CLIENT, "CLIENT")
 
-Client::Client(QObject *parent): QObject(parent), m_totalBytes(0)
+Client::Client(QObject *parent): QObject(parent), m_totalBytes(0), m_bytesReceived(0), m_fileNameSize(0), m_readyReadTime(0)
 {
 // Initialize variables and connections
     m_sendSocket = new QTcpSocket(this);
@@ -69,6 +69,7 @@ void Client::acceptConnection()
 {
     m_receiveSocket = m_server.nextPendingConnection();
     connect(m_receiveSocket, SIGNAL(readyRead()), this, SLOT(readHeader()));
+    connect(m_receiveSocket, SIGNAL(readyRead()), this, SLOT(printReadyRead()));
     connect(m_receiveSocket, SIGNAL(error(QAbstractSocket::SocketError)),
             this, SLOT(displayError(QAbstractSocket::SocketError)));
 
@@ -104,6 +105,7 @@ QString Client::getLocalIP()
 // Error display
 void Client::displayError(QAbstractSocket::SocketError)
 {
+    m_sendSocket->close();
     qCWarning(CLIENT()) << CLIENT().categoryName() << ":" << m_server.errorString();
 }
 
@@ -124,12 +126,16 @@ void Client::readHeader()
         receiveCommand();
         break;
     case PLAN:
-        receivePlan();
+        disconnect(m_receiveSocket, SIGNAL(readyRead()), this, SLOT(readHeader()));
+        connect(m_receiveSocket, SIGNAL(readyRead()), this, SLOT(updateFileProgress()));
+        qDebug() << "Receiving plan...";
+        updateFileProgress();
         break;
     case CHECK:
         checkConnection();
         break;
     default:
+        m_receiveSocket->close();
         break;
     }
 }
@@ -344,6 +350,7 @@ void Client::send()
 //    qDebug() << "-------------------";
 }
 
+
 void Client::checkConnection()
 {
     QByteArray ba_check = m_receiveSocket->readAll();
@@ -367,4 +374,110 @@ void Client::checkConnection()
     qDebug() << "Write finished" << bytesSent;
     m_baOut.clear();
     m_receiveSocket->close();
+}
+
+
+void Client::updateFileProgress()
+{
+    QDataStream inStream(m_receiveSocket);
+    inStream.setVersion(QDataStream::Qt_4_6);
+    if(m_bytesReceived <= sizeof(qint64)*2)
+    {
+        qDebug() << "m_bytesReceived:" << m_bytesReceived;
+        qDebug() << "bytesAvailable:" << m_receiveSocket->bytesAvailable()
+                 << endl << "fileNameSize:" << m_fileNameSize;
+        // If received data length is less than 16 bytes, then it has just started, save incoming head information
+        if((m_receiveSocket->bytesAvailable() >= sizeof(qint64)*2) && (m_fileNameSize == 0))
+        {
+            // Receive the total data length and the length of filename
+            inStream >> m_totalBytes >> m_fileNameSize;
+            qDebug() << "m_totalBytes:" << m_totalBytes << endl << "m_fileNameSize:" << m_fileNameSize;
+            m_bytesReceived += sizeof(qint64) * 2;
+        }
+        if((m_receiveSocket->bytesAvailable() >= m_fileNameSize) && (m_fileNameSize != 0))
+        {
+            // Receive the filename, and build the file
+            inStream >> m_fileName;
+
+            m_bytesReceived += m_fileNameSize;
+            m_writeFile = new QFile(m_fileName);
+            qDebug() << "m_fileName:" << m_fileName;
+            qDebug() << "BytesReceived:" << m_bytesReceived;
+            if(!m_writeFile->open(QFile::WriteOnly))
+            {
+                qDebug() << "Open file error !";
+                return;
+            }
+        }
+        else return;
+    }
+
+    if(m_bytesReceived < m_totalBytes)
+    {
+        // If received data length is less than total length, then write the file
+        m_bytesReceived += m_receiveSocket->bytesAvailable();
+        m_baIn = m_receiveSocket->readAll();
+        m_writeFile->write(m_baIn);
+        m_baIn.resize(0);
+    }
+
+    if(m_bytesReceived == m_totalBytes)
+    {
+        // When receiving process is done
+        m_writeFile->close();
+        m_receiveSocket->close();
+        m_fileNameSize = 0;
+
+        qDebug() << "Read file finished !";
+        connect(m_receiveSocket, SIGNAL(readyRead()), this, SLOT(readHeader()));
+        disconnect(m_receiveSocket, SIGNAL(readyRead()), this, SLOT(updateFileProgress()));
+    }
+    else
+        return;
+    m_bytesReceived = 0;
+    m_totalBytes = 0;
+    m_fileNameSize = 0;
+    readFile();
+}
+
+
+void Client::printReadyRead()
+{
+    m_readyReadTime += 1;
+    qDebug() << "***Ready read:" << m_readyReadTime;
+}
+
+
+void Client::readFile()
+{
+    QFile readFile(m_fileName);
+    if (!readFile.open(QIODevice::ReadOnly))
+        qDebug() << "Open file failed !";
+
+    QDataStream m_inData(&readFile);
+
+    m_inData >> m_hashX
+            >> m_hashY
+            >> m_hashZ
+            >> m_spotOrder
+            >> m_parameter.volt
+            >> m_parameter.totalTime
+            >> m_parameter.period
+            >> m_parameter.dutyCycle
+            >> m_parameter.coolingTime;
+
+    qDebug() << "m_hashX:" << m_hashX;
+    qDebug() << "m_hashY:" << m_hashY;
+    qDebug() << "m_hashZ:" << m_hashZ;
+    qDebug() << "m_spotOrder:" << m_spotOrder;
+    qDebug() << "Volt:" << m_parameter.volt << "Total time:" << m_parameter.totalTime << "Period:" << m_parameter.period
+             << "Duty cycle:" << m_parameter.dutyCycle << "Cooling time:" << m_parameter.coolingTime;
+
+    convertSpot();
+
+    qCDebug(CLIENT()) << CLIENT().categoryName() << "RECEIVING TREATMENT PLAN SUCCEEDED.";
+    qDebug() << SEPERATOR;
+    readFile.close();
+    m_fileName.clear();
+    emit receivingCompleted();
 }

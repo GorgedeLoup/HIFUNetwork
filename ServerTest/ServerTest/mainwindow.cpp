@@ -24,7 +24,8 @@ MainWindow::MainWindow(QWidget *parent) :
     spot4.x = 41; spot4.y = 42; spot4.z = 43;
     spot5.x = 51; spot5.y = 52; spot5.z = 53;
     QList<Spot3DCoordinate> spotList45;
-    spotList45 << spot1 << spot2 << spot3 << spot4 << spot5;
+    for (int i=0; i < 70; i++){
+        spotList45 << spot1 << spot2 << spot3 << spot4 << spot5;}
     spot[45.0] = spotList45;
 
     Spot3DCoordinate spot6, spot7, spot8, spot9;
@@ -153,12 +154,13 @@ void MainWindow::testFun()
 void MainWindow::on_u_buttonTP_clicked()
 {
     resetInput();
-    server.sendPlan();
+    server.sendFile();
 }
 
 void MainWindow::on_u_buttonTest_clicked()
 {
     testFun();
+    //server.encodeFile();
 }
 
 void MainWindow::on_u_buttonListen_clicked()

@@ -1,5 +1,4 @@
-#include <QDate>
-#include <QTime>
+#include <QDateTime>
 #include <QDebug>
 
 #include "server.h"
@@ -7,9 +6,9 @@
 Q_LOGGING_CATEGORY(SERVER, "SERVER")
 
 Server::Server(QObject *parent) : QObject(parent),
-      m_totalBytes(0), m_sendTimeNum(1)
+    m_totalBytes(0), m_sendTimeNum(1)
 {
-// Variables initialization and build connections
+    // Variables initialization and build connections
     m_server = new QTcpServer(this);
     m_sendSocket = new QTcpSocket(this);
     m_receiveSocket = new QTcpSocket(this);
@@ -25,6 +24,14 @@ Server::Server(QObject *parent) : QObject(parent),
     connect(this,SIGNAL(error(QString)),this,SLOT(handleError(QString)));
 
     m_checkTimes = 0;
+
+    m_loadSize = 3*1024;
+    m_totalBytes = 0;
+    m_bytesWritten = 0;
+    m_bytesToWrite = 0;
+
+    //connect(m_sendSocket, SIGNAL(connected()), this, SLOT(startTransferFile()));    // If connection is built, send connected signal, start session
+
 }
 
 Server::~Server()
@@ -37,14 +44,14 @@ void Server::connectServer()
     QHostAddress ipAddress(m_sendIpAddress);    // Set the IP address of another computer
     m_sendSocket->connectToHost(ipAddress, m_sendPort);    // Connect
 
-//    qDebug() << "&&&&&&&&&&&&&&&&&&&&&&";
-//    qDebug() << "peerName:" << m_sendSocket->peerName();
-//    qDebug() << "peerAddress:" << m_sendSocket->peerAddress();
-//    qDebug() << "peerPort:" << m_sendSocket->peerPort();
-//    qDebug() << endl;
-//    qDebug() << "localAddress:" << m_sendSocket->localAddress();
-//    qDebug() << "localPort:" << m_sendSocket->localPort();
-//    qDebug() << "&&&&&&&&&&&&&&&&&&&&&&";
+    //    qDebug() << "&&&&&&&&&&&&&&&&&&&&&&";
+    //    qDebug() << "peerName:" << m_sendSocket->peerName();
+    //    qDebug() << "peerAddress:" << m_sendSocket->peerAddress();
+    //    qDebug() << "peerPort:" << m_sendSocket->peerPort();
+    //    qDebug() << endl;
+    //    qDebug() << "localAddress:" << m_sendSocket->localAddress();
+    //    qDebug() << "localPort:" << m_sendSocket->localPort();
+    //    qDebug() << "&&&&&&&&&&&&&&&&&&&&&&";
 }
 
 void Server::readSettings()
@@ -205,8 +212,6 @@ void Server::sendCommand(cmdType iType)
 
         m_baOut.clear();
 
-        m_sendSocket->close();
-
         //  TODO
         //  Add the receipt
         //    qDebug() << "Send finished";
@@ -231,41 +236,44 @@ void Server::encodeCmd(QByteArray *baBlock, cmdType iType)
 // Generate the log information of treatment plan sending
 void Server::genReceipt(QString &receipt)
 {
-    QString date = QDate::currentDate().toString();
-    QString time = QTime::currentTime().toString();
+    QLocale curLocale(QLocale("C"));
+    QLocale::setDefault(curLocale);
+    QDateTime dateTime = QDateTime::currentDateTime();
+    QString dateTimeString = QLocale().toString(dateTime, "ddd,d MMM yyyy, hh:mm:ss");
+
     QString server = "ServerName";
     QString client = "ClientName";
     QString timeNum = "Time: " + QString::number(m_sendTimeNum, 10);
-    receipt = "From: " + server + ", " + "To: " + client + ", " + timeNum + ", " + date + ", " + time;
+    receipt = "From: " + server + ", " + "To: " + client + ", " + timeNum + ", " + dateTimeString;
 }
 
 // Read receipt
 void Server::readReceipt()
 {    
-//  test the signal of readyRead
-//    qDebug() << "readyRead...";
+    //  test the signal of readyRead
+    //    qDebug() << "readyRead...";
 
     QDataStream in(m_sendSocket);
     in.setVersion(QDataStream::Qt_4_6);
 
     QString receipt;
-//  test
-//    qDebug() << "bytesAvail:" << m_sendSocket->bytesAvailable();
+    //  test
+    //    qDebug() << "bytesAvail:" << m_sendSocket->bytesAvailable();
     in >> receipt;
     m_sendSocket->close();
 
-//  test
-//    qDebug() << "receipt:" << receipt;
-//  Check the consistency of the send-back data
-//  m_receivedInfo is updated outside the current thread
-//  not thread-safe
+    //  test
+    //    qDebug() << "receipt:" << receipt;
+    //  Check the consistency of the send-back data
+    //  m_receivedInfo is updated outside the current thread
+    //  not thread-safe
     if(m_receipt == receipt)
     {
 
         qDebug() << "Receipt checked.";
-//        qCDebug(SERVER()) << SERVER().categoryName() << ":" << "SUCESSFULLY SEND TREATMENT PLAN.";
-//        qDebug() << "**************************************";
-// Clear the variables
+        //        qCDebug(SERVER()) << SERVER().categoryName() << ":" << "SUCESSFULLY SEND TREATMENT PLAN.";
+        //        qDebug() << "**************************************";
+        // Clear the variables
         m_receipt.clear();
         m_sendTimeNum += 1;
         m_baOut.clear();
@@ -304,8 +312,8 @@ QString Server::getLocalIP()
     QList<QHostAddress> ipAddressesList = QNetworkInterface::allAddresses();
     for (int i = 0; i < ipAddressesList.size(); ++i) {
         if (ipAddressesList.at(i) != QHostAddress::LocalHost &&
-            ipAddressesList.at(i).toIPv4Address() &&
-            (ipAddressesList.at(i).toString().indexOf("169") != (-1))) {
+                ipAddressesList.at(i).toIPv4Address() &&
+                (ipAddressesList.at(i).toString().indexOf("169") != (-1))) {
             ipAddress = ipAddressesList.at(i).toString();
             break;
         }
@@ -362,8 +370,8 @@ void Server::receive()
     qint64 type;
 
     in >> type
-       >> m_totalBytes
-       >> m_status;
+            >> m_totalBytes
+            >> m_status;
 
     qDebug() << "m_totalBytes:" << m_totalBytes;
     qDebug() << "m_status:" << m_status;
@@ -372,6 +380,7 @@ void Server::receive()
     qCDebug(SERVER()) << SERVER().categoryName() << "RECEIVED PROGRESS UPDATE FINISHED.";
     emit receivingCompleted();
 }
+
 
 void Server::checkConnection()
 {
@@ -402,5 +411,140 @@ void Server::checkConnection()
 
         m_checkTimes += 1;
         qDebug() << "Check times: " << m_checkTimes;
+    }
+}
+
+
+void Server::encodeFile()
+{
+    // Generate file name
+    QLocale curLocale(QLocale("C"));
+    QLocale::setDefault(curLocale);
+    QDateTime dateTime = QDateTime::currentDateTime();
+    QString dateTimeString = QLocale().toString(dateTime, "dMMMyyyy_hhmmss");
+
+    m_fileName = "TCP_File_" + dateTimeString + ".HIFU";
+    qDebug() << m_fileName;
+
+    // QDir::setCurrent("D:/");
+    m_writeFile.setFileName(m_fileName);
+    if (!m_writeFile.open(QIODevice::WriteOnly))  // EMIT ERROR
+        qDebug() << "Error";
+
+    QDataStream outData(&m_writeFile);
+
+    //    outData << (quint32)0xA0B0C0D0;
+    //    outData << (qint32)460;
+    outData.setVersion(QDataStream::Qt_4_6);
+
+    encodeSpot();
+
+    outData << m_hashX
+            << m_hashY
+            << m_hashZ
+            << m_spotOrder
+            << m_parameter.volt
+            << m_parameter.totalTime
+            << m_parameter.period
+            << m_parameter.dutyCycle
+            << m_parameter.coolingTime;
+
+    qDebug() << "Spot order:" << m_spotOrder;
+    qDebug() << "Volt:" << m_parameter.volt
+             << "Total time:" << m_parameter.totalTime
+             << "Period:" << m_parameter.period
+             << "Duty cycle:" << m_parameter.dutyCycle
+             << "Cooling time:" << m_parameter.coolingTime;
+
+    qDebug() << "Encode file finished.";
+
+    m_writeFile.close();
+}
+
+
+void Server::sendFile()
+{
+    if (m_sendSocket->state() == m_sendSocket->ConnectingState)
+    {
+        emit socketBlockError();
+        qCWarning(SERVER()) << SERVER().categoryName() << "Socket block !";
+    }
+    else
+    {
+        encodeFile();
+        m_bytesWritten = 0;
+        connectServer();
+        startTransferFile();
+    }
+}
+
+
+void Server::startTransferFile()
+{
+    connect(m_sendSocket, SIGNAL(bytesWritten(qint64)), this, SLOT(updateFileProgress(qint64)));
+
+    m_readFile = new QFile(m_fileName);
+    if(!m_readFile->open(QFile::ReadOnly))
+    {
+        qDebug() << "Open file failed !";
+        return;
+    }
+    m_totalBytes = m_readFile->size();
+
+    QDataStream outStream(&m_baOut, QIODevice::WriteOnly);
+    outStream.setVersion(QDataStream::Qt_4_6);
+    // QString currentFileName = m_fileName.right(m_fileName.size() - m_fileName.lastIndexOf('/')-1);
+    outStream << qint64(0) << qint64(0) << qint64(0) << m_fileName;    // Write total bytes space, filename space, filename in order
+    qDebug() << "currentFileName:" << m_fileName;
+
+    m_totalBytes += m_baOut.size();    // m_totalBytes is the bytes information of filename space and the actual bytes of the file
+
+    outStream.device()->seek(0);
+    outStream << qint64(PLAN) << m_totalBytes << qint64((m_baOut.size() - sizeof(qint64)*2));     // Return the start of m_outBlock, replace two qint64 spaces by actual length information
+
+    m_bytesToWrite = m_totalBytes - m_sendSocket->write(m_baOut);        // The rest data length after the head information
+
+    qDebug() << "Write file head finished...";
+    qDebug() << "BytesToWrite:" << m_bytesToWrite;
+
+    m_baOut.resize(0);
+}
+
+
+void Server::updateFileProgress(qint64 numBytes)
+{
+    m_bytesWritten += (int)numBytes;    // Length of sent data
+
+    if(m_bytesToWrite > 0)    // If any data has already been sent
+    {
+        m_baOut = m_readFile->read(qMin(m_bytesToWrite, m_loadSize));    // The data length of every send progress, here 4KB as default, if less than it, send the rest
+        m_bytesToWrite -= (int)m_sendSocket->write(m_baOut);    // Length of remaining data
+
+        qDebug() << "Block wirte finished...";
+        qDebug() << "BytesWritten:" << m_bytesWritten;
+        qDebug() << "BytesToWrite:" << m_bytesToWrite;
+
+        m_baOut.resize(0);    // Clear the data buffer
+    }
+    else
+    {
+        m_readFile->close();    // If no data is sent, close file
+    }
+
+    if(m_bytesWritten == m_totalBytes)    // Send over
+    {
+        m_readFile->close();
+        m_sendSocket->close();
+        qDebug() << "All write finished.";
+        disconnect(m_sendSocket, SIGNAL(bytesWritten(qint64)), this, SLOT(updateFileProgress(qint64)));
+        m_bytesToWrite = 0;
+        m_bytesWritten = 0;
+        m_totalBytes = 0;
+    }
+    else
+    {
+        qDebug() << "m_bytesWritten:" << m_bytesWritten;
+        qDebug() << "m_totalBytes:" << m_totalBytes;
+        qDebug() << "Update error !";
     }
 }

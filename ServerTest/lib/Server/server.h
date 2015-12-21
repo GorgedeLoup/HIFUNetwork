@@ -4,11 +4,11 @@
 #include <QObject>
 #include <QtNetwork>
 #include <QList>
-#include <QHash>
 #include <QStringList>
 #include <QVariant>
 #include <QLoggingCategory>
 #include <QTimer>
+#include <QFile>
 
 #include "server_global.h"
 #include "constant.h"
@@ -37,6 +37,8 @@ public slots:
 
     void checkConnection();
 
+    void sendFile();
+
 private slots:
     void handleError(QString errorString);
     void connectServer();    // Connect to client
@@ -52,11 +54,16 @@ private slots:
     void acceptConnection();
     void receive();
 
+    void encodeFile();
+    void startTransferFile();
+    void updateFileProgress(qint64);
 
 signals:
     sendingCompleted();
     error(QString errorString);
     receivingCompleted();
+
+    socketBlockError();
 
 private:
     QTcpServer *m_server;
@@ -99,8 +106,13 @@ private:
 
     QHash<QString, QVariant> m_status;
 
-    bool m_checkProgress;
     qint16 m_checkTimes;
+
+    QFile m_writeFile;
+    QString m_fileName;
+    qint64 m_loadSize;
+    qint64 m_bytesWritten;
+    qint64 m_bytesToWrite;
 };
 
 

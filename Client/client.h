@@ -54,6 +54,10 @@ private slots:
 
     void checkConnection();
 
+    void updateFileProgress();
+    void printReadyRead();
+    void readFile();
+
 private:
     QTcpServer m_server;
     QTcpSocket *m_receiveSocket, *m_sendSocket;
@@ -71,7 +75,12 @@ private:
 
     QHash<QString, QVariant> m_status;
 
-
+    qint64 m_bytesReceived;
+    qint64 m_fileNameSize;
+    QString m_fileName;
+    QFile *m_writeFile;
+    QByteArray m_baIn;
+    qint64 m_readyReadTime;
 };
 
 #endif // CLIENT_H

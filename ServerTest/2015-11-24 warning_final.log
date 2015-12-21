@@ -1,6 +1,0 @@
-18:17:01 Warning: QAbstractSocket::connectToHost() called when already looking up or connecting/connected to "172.168.0.135"
-
-18:17:01 Warning: SERVER "Trying to connect while connection is in progress"
-
-18:17:01 Warning: QIODevice::write: device not open
-
